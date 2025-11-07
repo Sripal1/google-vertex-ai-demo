@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Georgia Tech Faculty Research Chat</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Marked.js for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+
+    <!-- Highlight.js for code syntax highlighting -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+
+    <!-- DOMPurify for XSS protection -->
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🎓 Georgia Tech Faculty Research Assistant</h1>
+            <p class="subtitle">Ask questions about Georgia Tech professors and their research</p>
+        </header>
+
+        <div class="chat-container">
+            <div id="messages" class="messages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello! I'm your Georgia Tech faculty research assistant. I can help you learn about professors' research areas, publications, and notable works.</p>
+                        <p>Try asking questions like:</p>
+                        <ul>
+                            <li>"Tell me about Zsolt Kira's research areas"</li>
+                            <li>"What are the notable works of [professor name]?"</li>
+                            <li>"Who researches machine learning?"</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="input-container">
+                <div class="input-wrapper">
+                    <textarea
+                        id="userInput"
+                        placeholder="Ask about Georgia Tech faculty research..."
+                        rows="1"
+                        autocomplete="off"
+                    ></textarea>
+                    <button id="sendButton" class="send-button" title="Send message">
+                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <line x1="22" y1="2" x2="11" y2="13"></line>
+                            <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                        </svg>
+                    </button>
+                </div>
+                <div id="errorMessage" class="error-message"></div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <p>⚠️ Demo Interface - Powered by Vertex AI RAG</p>
+        </footer>
+    </div>
+
+    <!-- Load configuration and chat logic -->
+    <script src="config.js"></script>
+    <script src="chat.js"></script>
+</body>
+</html>
