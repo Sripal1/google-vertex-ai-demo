@@ -53,7 +53,7 @@ else:
 
 
 rag_retrieval_config = rag.RagRetrievalConfig(
-    top_k=1000,
+    top_k=50,
     filter=rag.Filter(vector_distance_threshold=0.4),
 )
 
