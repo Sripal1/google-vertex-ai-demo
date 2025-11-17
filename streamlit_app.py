@@ -19,13 +19,17 @@ CORPUS_NAME = "projects/astute-sign-476118-i9/locations/us-east4/ragCorpora/1866
 def initialize_rag_model():
     """Initialize the RAG model (cached to avoid reinitializing)"""
     # For Streamlit Cloud: load from secrets
-    if "gcp_service_account" in st.secrets:
-        credentials = service_account.Credentials.from_service_account_info(
-            st.secrets["gcp_service_account"]
-        )
-        vertexai.init(project=PROJECT_ID, location="us-east4", credentials=credentials)
-    else:
-        # Local development
+    try:
+        if "gcp_service_account" in st.secrets:
+            credentials = service_account.Credentials.from_service_account_info(
+                st.secrets["gcp_service_account"]
+            )
+            vertexai.init(project=PROJECT_ID, location="us-east4", credentials=credentials)
+        else:
+            # Local development
+            vertexai.init(project=PROJECT_ID, location="us-east4")
+    except FileNotFoundError:
+        # No secrets file - local development
         vertexai.init(project=PROJECT_ID, location="us-east4")
 
     # Get existing corpus
