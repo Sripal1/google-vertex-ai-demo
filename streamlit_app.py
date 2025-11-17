@@ -2,6 +2,7 @@ import streamlit as st
 from vertexai import rag
 from vertexai.generative_models import GenerativeModel, Tool
 import vertexai
+from google.oauth2 import service_account
 
 # Page configuration
 st.set_page_config(
@@ -17,7 +18,15 @@ CORPUS_NAME = "projects/astute-sign-476118-i9/locations/us-east4/ragCorpora/1866
 @st.cache_resource
 def initialize_rag_model():
     """Initialize the RAG model (cached to avoid reinitializing)"""
-    vertexai.init(project=PROJECT_ID, location="us-east4")
+    # For Streamlit Cloud: load from secrets
+    if "gcp_service_account" in st.secrets:
+        credentials = service_account.Credentials.from_service_account_info(
+            st.secrets["gcp_service_account"]
+        )
+        vertexai.init(project=PROJECT_ID, location="us-east4", credentials=credentials)
+    else:
+        # Local development
+        vertexai.init(project=PROJECT_ID, location="us-east4")
 
     # Get existing corpus
     rag_corpus = rag.get_corpus(CORPUS_NAME)
