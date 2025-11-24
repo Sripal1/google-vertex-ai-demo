@@ -1,0 +1,1943 @@
+professor_name,query,response,status
+Abrahim Ladha,tell me about Abrahim Ladha and their research areas,"Abrahim Ladha's research areas include cryptography, secure computation, blockchain technology, privacy-preserving technologies, game theory, distributed systems, smart contracts, theoretical computer science, software engineering, formal methods, complexity theory, computability, logic, algorithms, combinatorics, and quantum computing. He also has research interests in computer science education.",SUCCESS
+Ada Gavrilovska,tell me about Ada Gavrilovska and their research areas,"Ada Gavrilovska is a Professor in the School of Computer Science at the Georgia Institute of Technology. Her primary research focuses on designing systems for emerging technologies and developing novel systems software solutions in response to advancements in hardware, applications, and use cases. She directs the Kernel research group, which investigates performance, scalability, and efficiency across the entire systems software stack. Her recent work emphasizes the impact of new memory system designs and the shift towards edge computing on systems software.
+
+Her research areas include:
+*   Virtualization
+*   Data Center Management
+*   Non-Volatile Memory Systems
+*   High-Performance Computing
+*   Edge Computing
+*   Autonomic Computing
+*   Operating Systems Design
+*   Computer Architecture
+*   Network Function Virtualization
+*   Cybersecurity",SUCCESS
+Agata Rozga,tell me about Agata Rozga and their research areas,"Agata Rozga is a Principal Research Scientist in the School of Interactive Computing at Georgia Institute of Technology and the Director of Translational Research for the AI-CARING Institute. Her research primarily focuses on computational behavioral science, aiming to transform the measurement, analysis, and understanding of health-related behaviors using advanced sensing, wearable and mobile technologies, and computational analysis methods.
+
+Her work is dedicated to developing tools for the detection, monitoring, and treatment of chronic health conditions, with a significant emphasis on Autism Spectrum Disorder (ASD) and Mild Cognitive Impairment (MCI). Her expertise spans developmental psychology, child psychology, computational psychology, and behavioral science. Specific areas of focus include Artificial Intelligence in Healthcare, Machine Learning for Behavior Analysis, Human-Computer Interaction, Early Childhood Development, and Neurodevelopmental Disorders. She investigates early predictors of social communication in children with ASD and leverages AI systems to track cognitive and functional decline in older adults with MCI.",SUCCESS
+Ahmed Saeed,tell me about Ahmed Saeed and their research areas,"Ahmed Saeed is an Assistant Professor in the School of Computer Science at Georgia Institute of Technology. His primary research focuses on the theory, design, and implementation of scalable computer networks and systems, including datacenter systems and operating systems.
+
+His specialized research areas include:
+*   Computer Networks
+*   Systems
+*   Mobile Computing
+*   Wireless Networking
+*   Internet of Things (IoT)
+*   Cyber-Physical Systems (CPS)
+*   Network Performance Analysis
+*   Resource Allocation
+*   Distributed Systems
+*   Application of Machine Learning for systems and networking
+*   Formal methods for network protocols and resource allocation heuristics
+*   Low Earth Orbit (LEO) satellite networks, particularly understanding and weathering their variability.",SUCCESS
+Aibek Musaev,tell me about Aibek Musaev and their research areas,"Aibek Musaev is a Lecturer in the College of Computing's Division of Computing Instruction at the Georgia Institute of Technology. His primary research focuses on leveraging big data analytics, computer vision, and machine learning to address complex real-world challenges.
+
+His research areas include:
+*   Social Network Analysis
+*   Big Data Analytics
+*   Computer Vision and Image Analysis
+*   Social Media Analytics, particularly for Natural Disaster Detection and Management, and Public Perception and Sentiment Analysis
+*   Information Retrieval and Text Mining
+*   Machine Learning for Event Detection
+*   Computational Social Science
+*   Distributed Systems and Services Computing
+*   Multilingual Natural Language Processing",SUCCESS
+Alan Ritter,tell me about Alan Ritter and their research areas,"Alan Ritter's primary research focuses on Natural Language Processing (NLP), specifically on developing robust models that function effectively across diverse domains and languages, while also prioritizing efficiency in computational resources and minimizing the need for extensive labeled data. He also explores the creation of data-driven dialogue agents capable of safe and natural conversations across a wide array of topics.
+
+His broader research areas include Machine Learning, Artificial Intelligence, Information Extraction, Deep Learning, Dialogue Systems, Sentiment Analysis, Text Mining, Social Media Analysis, and Computational Linguistics. A significant portion of his work centers on improving the robustness and adaptability of NLP tools, particularly for noisy, user-generated text, and developing methods for context-aware and culturally nuanced language models.",SUCCESS
+Alberto Dainotti,tell me about Alberto Dainotti and their research areas,"Alberto Dainotti's primary research focuses on the intersection of Internet measurement, data science, and cybersecurity. He investigates how and when Internet infrastructure can fail, developing solutions to address these issues, and exploring the political motivations and implications of Internet cybersecurity events.
+
+His research areas include:
+*   Internet Traffic Analysis
+*   Network Security
+*   Network Measurement
+*   Routing Protocols (BGP)
+*   Network Performance
+*   Traffic Classification
+*   Network Resilience
+*   Network Forensics
+*   Distributed Systems
+*   Cyber-Physical Systems
+*   Internet Data Science
+*   Data Analytics, often with a focus on Internet & Democracy, examining the impact of governmental interference and societal factors on digital communication.",SUCCESS
+Alex Duncan,tell me about Alex Duncan and their research areas,"Alex Duncan's primary research focuses on the intersection of online education, learning at scale, and student experience, with an emphasis on improving pedagogical practices and understanding learner behaviors in large-scale online environments.
+
+His broader research interests include:
+*   Distance learning
+*   Computer science education
+*   Educational technology
+*   Higher education
+*   Educational psychology
+*   Data privacy (specifically GDPR)
+*   Research methodology
+*   Human-computer interaction",SUCCESS
+Alex Endert,tell me about Alex Endert and their research areas,"Alex Endert is an Associate Professor and the Associate Chair of Operations and Special Initiatives in the School of Interactive Computing at the Georgia Institute of Technology. He directs the Visual Analytics Lab, where his primary research focuses on designing interactive visual tools to help people make sense of data and Artificial Intelligence (AI). His work aims to empower individuals to gain insights, make informed decisions, and promote the responsible use of AI for various domain-driven problems.
+
+His research areas span the intersection of computing and human cognition, including:
+*   Human-Computer Interaction (HCI)
+*   Information Visualization
+*   Visual Analytics
+*   Data Science
+*   Machine Learning
+*   User Experience Research
+*   Cognitive Science
+*   Computer-Supported Cooperative Work
+*   Artificial Intelligence",SUCCESS
+Alexander Adams,tell me about Alexander Adams and their research areas,"Alexander T. Adams, an Assistant Professor in the School of Interactive Computing at Georgia Tech, directs the Uncommon Sense Labs. His primary research focuses on designing, fabricating, and implementing novel ubiquitous and wearable sensing systems, particularly using equity-driven design principles for accessible and low-cost remote diagnostics and monitoring in healthcare.
+
+His research areas include:
+*   Ubiquitous Computing
+*   Human-Computer Interaction (HCI)
+*   Wearable Computing
+*   Pervasive Computing
+*   Affective Computing
+*   Mobile Sensing
+*   Health Informatics
+*   Biomedical Engineering
+*   Ubiquitous Sensing
+*   Behavioral Interventions
+*   Signal Processing
+
+His work leverages expertise in sensing, signal processing, and fabrication techniques to create multi-modal sensing systems that assess both mental and physical health. His lab also emphasizes 3D printing, machine learning, computer vision, embedded systems, and optical design for developing sensing solutions.",SUCCESS
+Alexandra Boldyreva,tell me about Alexandra Boldyreva and their research areas,"Alexandra Boldyreva's primary research focuses on advancing cryptography and information security, covering both foundational theory and practical applications. Her research areas include:
+
+*   Applied Cryptography
+*   Public-Key Cryptography
+*   Symmetric Encryption
+*   Digital Signatures
+*   Cryptographic Protocols
+*   Network Security
+*   Database Security
+*   Privacy-Preserving Technologies
+*   Security Proofs for cryptographic schemes
+*   Information Theory relevant to security",SUCCESS
+Alexandros Daglis,tell me about Alexandros Daglis and their research areas,"Alexandros Daglis is an Associate Professor of Computer Science at the Georgia Institute of Technology. His primary research focuses on rack-scale computing and network-compute integration, with the goal of optimizing performance for communication-intensive services with strict latency requirements in datacenter environments.
+
+His research areas include:
+*   Computer Architecture
+*   Datacenter Systems
+*   Memory Systems
+*   Computer Networks
+*   Distributed Systems
+*   High-Performance Computing
+*   Systems Software
+*   Parallel Computing
+*   Hardware/Software Co-design
+*   Edge Computing
+*   Optimizing tail latency in datacenters
+*   Near-memory processing architectures
+*   Persistent memory systems
+*   CXL-centric memory solutions for scalable servers
+*   Leveraging SmartNICs for efficient Remote Procedure Calls (RPCs)
+*   Error-resilient computing techniques",SUCCESS
+Alexey Tumanov,tell me about Alexey Tumanov and their research areas,"Alexey Tumanov specializes in:
+*   Distributed systems support for soft real-time Machine Learning (SRTML)
+*   Large Foundation Model inference and reasoning support
+*   Resource management for distributed ML frameworks and applications
+*   Systems for ML
+*   Soft real-time ML
+*   LLM inference
+*   Distributed Systems
+*   Cloud Computing
+*   Machine Learning Systems
+*   Large Language Model Inference
+*   Real-time Systems
+*   Resource Management
+*   Cluster Scheduling
+*   Performance Optimization
+*   Hardware-Software Co-design
+*   Serverless Computing",SUCCESS
+Amanda Meng,tell me about Amanda Meng and their research areas,"Amanda Meng, a Research Faculty member in the School of Computer Science at Georgia Institute of Technology, focuses her primary research on the intersections of democracy, technology, data, and activism, often using a social science perspective. Her work also explores caring democracy through technology and contributes to the Internet Outage Detection and Analysis project at Georgia Tech.
+
+Her specialized research areas include:
+*   **Data activism**
+*   **Ethic of care**
+*   **Critical data literacy**
+*   **Critical Data Studies**
+*   **Science and Technology Studies (STS)**
+*   **Human-Computer Interaction (HCI)**
+*   **Digital Democracy**
+*   **Data Ethics**
+*   **Social Computing**
+*   **Community Organizing**
+*   **Participatory Design**
+*   **Information Ethics**
+
+She frequently employs qualitative research methods in her studies, which often investigate how social movements use open government data for advocacy and how citizen-collected data projects can foster community engagement and justice.",SUCCESS
+Amy Bruckman,tell me about Amy Bruckman and their research areas,"Amy Bruckman is a Regents' Professor and Senior Associate Chair in the School of Interactive Computing at the Georgia Institute of Technology. Her research primarily focuses on social computing, with a strong emphasis on online collaboration, understanding across differences, and content moderation.
+
+Her research areas include:
+*   Social Computing
+*   Collaborative Computing
+*   Human-Computer Interaction (HCI)
+*   Computer-Mediated Communication
+*   Online Communities
+*   Collaborative Systems
+*   Digital Ethics
+*   Information Science
+*   Educational Technology
+*   Digital Sociology
+*   Qualitative Research Methods
+*   Learning Sciences
+
+Her work often explores how the design features of online environments influence human behavior and facilitate collaborative knowledge construction. She has made foundational contributions to internet research ethics, developing ethical guidelines and studying participant reactions to online research. Additionally, her research has examined large-scale cooperative systems like Wikipedia, focusing on participation, governance, decentralization, and content moderation on platforms such as Reddit and Twitter. She also pioneered early virtual communities and constructionist learning environments like MediaMOO and MOOSE Crossing.",SUCCESS
+Andrea G. Parker,tell me about Andrea G. Parker and their research areas,"Andrea G. Parker is an Associate Professor in the School of Interactive Computing at the Georgia Institute of Technology, where she founded and directs the Wellness Technology Research Lab. Her primary research focuses on designing, building, and evaluating software tools to manage health and wellness. Her interdisciplinary work addresses health equity by examining racial, ethnic, and economic health disparities and the social context of health management. She also holds adjunct associate professor positions at the Rollins School of Public Health at Emory University and the Morehouse School of Medicine.
+
+Dr. Parker specializes in the following research areas:
+*   Human-Computer Interaction (HCI)
+*   Digital Health
+*   Health Equity
+*   Health Disparities
+*   Social Computing
+*   Health Informatics
+*   HCI for Social Good
+*   Participatory Design
+*   Crisis Informatics
+*   Health Promotion Technology
+
+A significant aspect of her research involves taking an ecological approach to technology design, conducting in-depth fieldwork to understand how various factors influence wellbeing and how technology can help communities overcome health barriers. Her current projects include equity-focused research in Black women's maternal and mental health, youth civic engagement, COVID health information practices and visualization, and faith-based health interventions.",SUCCESS
+Animesh Chhotaray,tell me about Animesh Chhotaray and their research areas,"Animesh Chhotaray is a Research Scientist I in the School of Cybersecurity and Privacy within the College of Computing at the Georgia Institute of Technology.
+
+His primary research focuses on bolstering supply-chain security for integrated circuits and additive manufacturing (3D printing), as well as enhancing the security of cyber-physical systems. His work also involves discovering cybersecurity vulnerabilities, analyzing their impact through large-scale studies, developing formally guaranteed defenses, and creating practical solutions for users to understand their systems' security.
+
+Dr. Chhotaray specializes in a diverse array of cybersecurity disciplines, including:
+*   Cryptography
+*   Hardware Security
+*   Cyber-Physical Systems Security
+*   Applied Cryptography
+*   Network Security
+*   Reverse Engineering
+*   Intellectual Property Protection
+*   Machine Learning Security
+*   Embedded Systems Security
+*   Digital Forensics
+*   Supply-chain security for additive manufacturing (3D printing)
+*   Maritime Cybersecurity
+
+He often incorporates user studies and machine learning techniques to address complex security challenges in his research.",SUCCESS
+Animesh Garg,tell me about Animesh Garg and their research areas,"Animesh Garg is a Stephen Fleming Early Career Professor in the School of Interactive Computing at the Georgia Institute of Technology, an Assistant Professor of Computer Science at the University of Toronto, a Faculty Affiliate at the Vector Institute, and a Senior Researcher at Nvidia Research. He leads the People, AI, and Robotics (PAIR) research group.
+
+His primary research vision is to develop algorithmic foundations for generalizable autonomy, enabling robots to acquire skills at both cognitive and dexterous levels, and to interact seamlessly with humans in novel environments. His work emphasizes structured inductive biases and causality to achieve general-purpose embodied intelligence that learns from imprecise information.
+
+His research areas include:
+*   Robotics
+*   Machine Learning
+*   Reinforcement Learning
+*   Computer Vision
+*   Robotic Manipulation
+*   Robot Learning
+*   Imitation Learning
+*   Motion Planning
+*   Control Theory
+*   Artificial Intelligence
+*   Development of multimodal representations for robust human-robot interaction.
+*   Generalizable autonomy, focusing on robots adapting to diverse tasks and environments by learning from data-driven causal discovery and transferring knowledge to real-world applications.",SUCCESS
+Annie I. Antón,tell me about Annie I. Antón and their research areas,"Dr. Annie I. Antón's research areas are at the intersection of computing, law, and policy. Her expertise includes:
+
+*   **Software Engineering:** With a strong focus on Requirements Engineering, encompassing goal-based and inquiry-based analysis, and scenario management.
+*   **Privacy Engineering and Security Engineering:** Specializing in the specification and analysis of privacy policies, user perceptions of privacy, and secure system design.
+*   **Regulatory Compliance and Legal Informatics:** This involves extracting rights and obligations from complex legal texts to ensure software system requirements align with legal mandates.
+*   **Human-Computer Interaction:** Specifically related to user privacy values.
+*   **Information Policy.**
+*   **Natural Language Processing:** Leveraged for automating the analysis of policy documents.",SUCCESS
+Anqi Wu,tell me about Anqi Wu and their research areas,"Dr. Anqi Wu is an Assistant Professor in the School of Computational Science and Engineering (CSE) within the College of Computing at the Georgia Institute of Technology. She directs the BRAin INtelligence and Machine Learning (BRAINML) Laboratory. She is also affiliated with the Machine Learning Center, Neuro @ GT, Bioengineering, and the Institute for Bioengineering and Bioscience (IBB) at Georgia Tech.
+
+Her primary research focuses on developing scientifically-motivated Bayesian statistical models and probabilistic modeling approaches for neural and behavior analyses, along with creating scalable and efficient inference algorithms to fit these models.
+
+Dr. Wu specializes in a broad range of research areas, including:
+*   **Machine Learning**
+*   **Computational Neuroscience**
+*   **Probabilistic Modeling for Neural Latent Discovery**: This involves using deep generative models, variational autoencoders, Gaussian processes, and Bayesian neural networks to extract interpretable latent representations from neural populations.
+*   **Behavior Analysis and Understanding**: Her work in this area includes 3D full-body kinematic model estimation, hierarchical spatial and temporal models for animal behavior syllables, and studying intrinsic motives and reward representations through (inverse) reinforcement learning.
+*   **Efficient Inference Approaches** for complex models.
+*   Applications in **Computer Vision** and **Robotics**, such as fMRI decoding and neural sensory encoding.
+
+Her notable contributions include developing innovative methods for discovering low-dimensional latent structures in neural data, advancing the practical application of Bayesian Neural Networks (BNNs) with deterministic variational inference methods, and improving animal pose tracking through semi-supervised deep graphical models.",SUCCESS
+"Ashok K. Goel, Ashok Goel","tell me about Ashok K. Goel, Ashok Goel and their research areas","Ashok K. Goel is a distinguished Professor of Computer Science and Human-Centered Computing in the School of Interactive Computing at the Georgia Institute of Technology. He serves as the Chief Scientist with Georgia Tech's Center for 21st Century Universities and is the Executive Director of the National Science Foundation's AI Institute for Adult Learning and Online Education (AI-ALOE).
+
+His primary research focuses on cognitive systems at the intersection of Artificial Intelligence and Cognitive Science, with a strong emphasis on computational design, creativity, and the transformative role of AI in education.
+
+**Research Areas:**
+Dr. Goel specializes in:
+*   Computational Design
+*   Artificial Intelligence
+*   Cognitive Science
+*   Educational Technology
+*   Online Education
+*   Design Reasoning
+*   Case-Based Reasoning
+*   Model-Based Reasoning
+*   Knowledge Representation
+*   Human-Computer Interaction
+*   Biologically Inspired Design
+*   Structure-Behavior-Function (SBF) models for understanding complex systems.
+
+**Notable Works:**
+*   Pioneered **Jill Watson**, the world's first virtual teaching assistant, which autonomously answers student questions in online discussion forums. This innovation has been deployed in numerous Georgia Tech courses, improving teaching presence and correlating positively with student performance.
+*   Contributed significantly to **biologically inspired design**, developing theories and computational tools that leverage analogies from natural systems for engineering problems, fostering creativity and sustainable design.
+*   Developed the **Structure-Behavior-Function (SBF) modeling language**, fundamental to AI for understanding and explaining complex engineered systems. This framework supports automated design, diagnosis, and interactive learning environments like **VERA (Virtual Experimentation Research Assistant)** for scientific knowledge acquisition.
+
+**Academic Background and Honors:**
+He earned his Ph.D. in Computer and Information Science from The Ohio State University in 1989 and joined Georgia Tech the same year. He has held leadership roles including Director of the Ph.D. Program in Human-Centered Computing and Co-Director of the Center for Biologically Inspired Design. He is an AAAI Fellow (2021) and a Cognitive Science Society Fellow (2022). His contributions have been recognized with awards such as the AAAI's Outstanding AI Educator Award (2019), the University System of Georgia Regent's Award for Scholarship of Teaching and Learning (2020), and the AAAI Distinguished Service Award (2024).",SUCCESS
+Ashutosh Dhekne,tell me about Ashutosh Dhekne and their research areas,"Ashutosh Dhekne's primary research focuses on advancing Ultra-Wideband (UWB) localization and sensing technologies to create greener, more accurate, and pervasive indoor navigation and security systems. He also explores novel applications of wireless and IoT technologies in various fields. His work often centers on the concept of ""Tiny Data,"" emphasizing efficient data utilization in constrained environments.
+
+His research areas include:
+*   Ultra-Wideband (UWB) Technology
+*   Wireless Localization and Tracking
+*   Internet of Things (IoT)
+*   Wireless Communication Protocols
+*   Embedded Systems and Hardware
+*   Sensor Networks
+*   Mobile Computing
+*   Robotics and Autonomous Systems
+*   Sports Analytics and Technology
+*   Edge Computing
+*   Sustainability (with a recent emphasis on addressing global challenges through technological innovation)",SUCCESS
+B. Aditya Prakash,tell me about B. Aditya Prakash and their research areas,"B. Aditya Prakash specializes in Data Science, Machine Learning, and Artificial Intelligence, with a focus on big-data challenges in large real-world networks and time-series. His research is applied to critical domains such as computational epidemiology, public health, urban computing, security, and the Web.
+
+His specific research areas include:
+*   Graph Theory
+*   Network Science
+*   Time Series Analysis
+*   Epidemic Modeling and Computational Epidemiology
+*   Information Diffusion and Forecasting
+*   Graph neural networks
+*   Deep learning for epidemic forecasting
+*   Autoregressive diffusion models for graph generation
+*   Physics-informed neural networks",SUCCESS
+Betsy DiSalvo,tell me about Betsy DiSalvo and their research areas,"Betsy DiSalvo is an Associate Professor in the School of Interactive Computing at Georgia Tech and directs the Culture and Technology Lab (CAT Lab). Her primary research explores the impact of culture on technology use and production, focusing on computer science education and informal learning. She is dedicated to developing socio-technical environments and tools that broaden participation in computing for minoritized groups and communities.
+
+Her research areas encompass:
+*   Computer Science Education
+*   Learning Sciences
+*   Human-Computer Interaction (HCI)
+*   Design Studies
+*   Educational Technology
+*   Cultural Studies
+*   Sociotechnical Systems
+*   Qualitative Research Methods
+*   Identity Formation
+*   Critical Race Theory
+*   Motivation in learning
+*   Design of educational games
+*   Sustainable STEM education
+*   Physical computing and maker spaces
+*   Computing workforce development
+*   Participatory design methods for diverse cultural and socioeconomic contexts, emphasizing informal learning and families in minority communities.",SUCCESS
+Bo Dai,tell me about Bo Dai and their research areas,"Bo Dai's primary research interest is in Agent AI, focusing on generative models, representation learning, and reinforcement learning. The goal of this research is to create intelligent agents capable of sophisticated decision-making and world modeling.
+
+His key areas of expertise include:
+*   Machine Learning
+*   Reinforcement Learning
+*   Deep Learning
+*   Generative Models
+*   Representation Learning
+*   Optimization
+*   Structured Data Analysis
+*   Probabilistic Graphical Models
+*   Kernel Methods
+*   Computer Vision
+
+Additionally, his research delves into advanced topics such as data-driven algorithm design, policy optimization, and the theoretical underpinnings of offline reinforcement learning. He also works on developing principled and practical machine learning methods for structured data, specifically designing effective statistical models and efficient algorithms to handle complex, high-dimensional, and uncertain data.",SUCCESS
+Bo Zhu,tell me about Bo Zhu and their research areas,"Bo Zhu's research areas primarily encompass Computer Graphics, Computational Physics, and Scientific Machine Learning. His expertise also includes Computational Fluid Dynamics, Topology Optimization, Continuum Mechanics, Numerical Analysis, Solid Mechanics, Mechanical Engineering, and Robotics.
+
+His work focuses on developing geometric data structures and numerical algorithms to address computational challenges in various physical systems. He is particularly interested in simulating fluid dynamics, including interfacial dynamics, vortical structures, and topological evolution. Dr. Zhu also designs advanced numerical algorithms and leverages machine learning for complex physical simulations, spanning multi-scale material design, computational controller design for autonomous systems, and differentiable fluid environments.",SUCCESS
+Bobbie Lynn Eicher,tell me about Bobbie Lynn Eicher and their research areas,"Bobbie Lynn Eicher is a Ph.D. Student in the School of Interactive Computing at the Georgia Institute of Technology. Her primary research focuses on the intersection of artificial intelligence, cognitive science, and online education.
+
+Her research areas include:
+*   Artificial Intelligence (AI) Ethics
+*   Online Education
+*   Educational Assessment and Evaluation
+*   Cognitive Science and AI Interaction
+*   Educational Technology
+*   Human-Computer Interaction
+*   Computational Thinking Education
+*   Online Learning Pedagogy
+*   Educational Data Mining
+*   Artificial Intelligence in Education",SUCCESS
+Brendan D. Saltaformaggio,tell me about Brendan D. Saltaformaggio and their research areas,"Brendan D. Saltaformaggio is an Associate Professor at the Georgia Institute of Technology, with joint appointments in the School of Cybersecurity and Privacy and the School of Electrical and Computer Engineering, and a courtesy appointment in the School of Computer Science. He directs the Cyber Forensics Innovation (CyFI) Laboratory.
+
+His research areas encompass:
+*   Cyber Forensics
+*   Systems Security
+*   Malware Analysis
+*   Digital Forensics
+*   Software Engineering
+*   Computer Architecture
+*   Network Security
+*   Cloud Computing
+*   Memory Forensics
+*   Binary Analysis and Instrumentation
+*   Security of mobile and IoT systems.
+
+His laboratory's mission is dedicated to investigating advanced cyber crimes and analyzing and preventing next-generation malware attacks, particularly focusing on mobile and IoT environments, and the vetting of untrusted software.",SUCCESS
+Brian Hrolenok,tell me about Brian Hrolenok and their research areas,"Brian Hrolenok is an Assistant Professor (Teaching) in the Department of Computer Science at George Mason University. His primary research focuses on the intersection of machine learning and multiagent systems, specifically the development of executable models for systems that exhibit complex collective behavior, ranging from social animals to autonomous robot teams.
+
+His research areas include:
+*   Machine Learning
+*   Multiagent Systems
+*   Computer Vision
+*   Robotics
+*   Behavioral Ecology
+*   Animal Behavior Modeling
+*   Simulation
+*   Data Mining
+*   Social Network Analysis
+*   Collective Behavior
+
+A key aspect of his work involves inferring social structures from observed data and modeling the stochastic nature of multiagent interactions.",SUCCESS
+Brian Magerko,tell me about Brian Magerko and their research areas,"Brian Magerko, a Regents Professor of Digital Media at Georgia Tech, specializes in research at the intersection of human and machine cognition to create novel human-computer creative experiences. He integrates cognitive science, computer science, and computational media research to understand social collaboration and creativity between humans and artificial intelligence.
+
+His primary research areas include:
+*   Creativity and cognition
+*   Computational media
+*   Computer science education
+*   Artificial Intelligence (AI)
+*   Human-Computer Interaction (HCI)
+*   Embodied interaction
+*   Interactive storytelling
+*   Game design
+*   Educational technology
+*   Human-robot interaction
+*   The study of improvisational cognition and its computational modeling.
+
+He also investigates how expression and meaning-making can motivate students to learn computing and how to quantify creative social interactions.",SUCCESS
+Bruce N. Walker,tell me about Bruce N. Walker and their research areas,"Bruce N. Walker specializes in several research areas, primarily focusing on Sonification and Auditory Displays, where he investigates using sound to represent and analyze data for both sighted and visually impaired individuals. His work also extensively covers Human-Computer Interaction (HCI) in Non-Traditional Interfaces, including tactile, voice, and vibration interactions.
+
+Furthermore, Dr. Walker delves into the psychological and social factors that influence technology adoption, particularly examining trust and risk perception in automated driving systems and the dynamics of human-AI-robot teaming. He also contributes significantly to Assistive Technology, designing accessible and inclusive interfaces for people with visual impairments. His Sonification Lab investigates HCI issues across various non-traditional interfaces, such as mobile devices, vehicle displays, and multimodal interfaces in educational and complex task environments.",SUCCESS
+Calton Pu,tell me about Calton Pu and their research areas,"Calton Pu's research areas include Service Computing, Cloud Computing, Big Data Analytics, Data Management and Databases, Information Security, Computer Security and Privacy, Distributed Systems and Networks, Operating Systems and Systems Software, Cloud Computing and Virtualization, Artificial Intelligence and Machine Learning, Information Retrieval and Web Technologies, and Mobile and Multimedia Computing.
+
+His primary research focuses on automated system management in cloud environments, addressing challenges related to information quality, big data in Internet of Things (IoT), and distributed computing. Current work also involves tackling the ""latency long tail"" problem in web-facing and microservices-based applications by identifying and mitigating ""millibottlenecks."" Recent projects highlight contributions to cloud performance optimization and dynamic analytics on changing big data, including efforts to detect and manage misinformation.",SUCCESS
+Carl DiSalvo (he / him),tell me about Carl DiSalvo (he / him) and their research areas,"Carl DiSalvo specializes in the intricate relationship between design and democracy, focusing on how technology design can engage political discourse and foster collective action. His research areas include Design Studies, Human-Computer Interaction (HCI), and the Sociology of Technology.
+
+Specifically, his expertise covers:
+*   **Design Methodologies:** Participatory Design, Speculative Design, Critical Design, and Civic Technology, with a strong emphasis on qualitative research methods.
+*   **Technological Applications & Implications:** Human-robot interaction, sustainability in HCI, and the ethical considerations of technology in urban environments, such as smart cities and the Internet of Things (IoT).
+*   **Societal Contributions:** How design can support diverse economies, food systems, and environmental monitoring, often integrating art, craft, and activism to broaden the scope of design. He also investigates how communities utilize data for political aims and how these data practices shape new forms of civic engagement, challenging conventional computing notions to enhance participation.",SUCCESS
+Carrie Bruce,tell me about Carrie Bruce and their research areas,"Dr. Carrie Bruce is a Principal Research Scientist within the College of Computing at the Georgia Institute of Technology, where she also serves as the Assistant Director and Research Manager for the Master of Science in Human-Computer Interaction (MS-HCI) program. Her primary research focuses on Human-Computer Interaction (HCI), accessibility, and inclusive design, specializing in how design impacts user abilities, participation, and performance across diverse populations.
+
+Her expertise spans a wide range of research areas, including:
+*   Human Computer Interaction (HCI)
+*   UX research
+*   Inclusive Design
+*   Assistive Technology
+*   Workplace Accommodations
+*   Universal Design
+*   Rehabilitation and Health Assessment
+*   Communication Sciences and Disorders (specifically Augmentative and Alternative Communication)
+*   Environmental Design and Assessment
+*   Information Science and Technology (Data Corpus Development)
+*   Sound Design and Sonification
+*   Cognitive Science and Dementia Care
+
+Notable works demonstrating her research contributions include:
+*   Developing and evaluating the **Environment & Communication Assessment Toolkit (ECAT) for Dementia Care**, which helps assess environmental barriers and modify communication environments to improve communication skills for individuals with dementia.
+*   Pioneering research in **aquarium sonification and auditory displays**, creating interactive soundscapes for accessible dynamic informal learning environments, particularly beneficial for visually impaired visitors and children.
+*   Creating and analyzing the **Augmentative and Alternative Communication (AAC) and Non-AAC Workplace Corpus (ANAWC)**, a resource for studying linguistic patterns in the workplace discourse of AAC users to inform the design of more effective AAC devices.",SUCCESS
+Cecilia Testart,tell me about Cecilia Testart and their research areas,"Cecilia Testart's research focuses on the intersection of Internet measurements, security, and policy. She utilizes data-driven approaches to enhance the security and reliability of the Internet, aiming to ensure its societal benefit.
+
+Her specialized research areas include:
+*   Computer networks
+*   Network security
+*   Internet measurements
+*   Internet policy
+*   Internet Routing Security
+*   Network Protocol Analysis
+*   Network Measurement and Monitoring
+*   Cybersecurity Policy
+*   Internet Governance
+*   Cryptographic Security
+*   Data Mining and Machine Learning for Security
+*   Internet Architecture and Design
+*   Network Resilience
+*   Internet Traffic Analysis
+
+Dr. Testart also leads the Internet and Society lab and is a member of the Internet Intelligence Lab.",SUCCESS
+Chao Zhang,tell me about Chao Zhang and their research areas,"Dr. Chao Zhang, an Assistant Professor in the School of Computational Science and Engineering at the Georgia Institute of Technology, specializes in a broad range of research areas at the intersection of data science, machine learning, and artificial intelligence.
+
+His primary research focuses on building advanced large language models (LLMs) and AI agents for complex task-solving and decision-making, emphasizing data efficiency, computation efficiency, and model robustness. He is also deeply invested in leveraging foundation models to advance AI for scientific discovery.
+
+Dr. Zhang's specific research areas include:
+*   Data-Centric AI
+*   Trustworthy AI
+*   Uncertainty Quantification, particularly within Large Language Models (LLMs) and AI agents
+*   Spatiotemporal Modeling
+*   Natural Language Processing (NLP)
+*   Deep Learning
+*   Recommender Systems
+*   Computer Vision
+*   Graph Neural Networks
+*   Data Mining
+*   Information Extraction
+*   Weakly-supervised learning
+*   Out-of-distribution generalization
+*   Interpretable machine learning
+*   Knowledge extraction and reasoning
+*   Active learning
+*   Data curation",SUCCESS
+Christopher J. MacLellan,tell me about Christopher J. MacLellan and their research areas,"Christopher J. MacLellan is an Assistant Professor in the School of Interactive Computing at the Georgia Institute of Technology, where he leads the Teachable AI Lab (TAIL).
+
+His core research aims to understand how humans teach and learn, and to engineer AI systems that can emulate human-like learning and teaching processes. This involves developing computational models of human learning to create scalable AI technologies like intelligent tutoring systems and medical decision support systems. He also investigates how data from human learning and decision-making can refine cognitive models and enhance computational learning systems.
+
+Dr. MacLellan specializes in:
+*   Cognitive Systems
+*   Artificial Intelligence in Education
+*   Human-AI Teaming
+*   Concept Formation
+*   Cognitive Modeling
+*   Human-Computer Interaction
+*   Educational Technology
+*   Machine Learning
+*   Computational Linguistics
+*   Knowledge Representation and Reasoning
+*   Educational Data Mining
+
+A significant portion of his work focuses on developing computational models that learn interactively from examples and feedback, which directly influences the design and efficacy of intelligent tutoring systems. He also investigates interactive task learning and applies generative AI to streamline the authoring of intelligent tutor interfaces. His notable contributions include improving human-machine teaming, pioneering computational models of apprentice learning (such as the Apprentice Learner Architecture and SimStudent), and addressing challenges in medical AI, particularly in sparse data scenarios, to create diagnostic tools like those for pneumothorax detection.",SUCCESS
+Cindy Lin Kaiying,tell me about Cindy Lin Kaiying and their research areas,"Cindy Lin Kaiying's research areas include Science and Technology Studies (STS), Critical Data Studies, and Feminist Technoscience. Her work also extensively explores Human-Computer Interaction (HCI), Postcolonial Studies, Digital Humanities, Environmental Studies, sociotechnical systems, and AI Ethics. She is engaged in Design Studies, examining how technology shapes and is shaped by societal values and power dynamics. Her scholarship frequently addresses themes such as digital precarity, techno-optimism, and the ethical implications of data and AI in global contexts. Her primary research centers on data practices, exchanges, and expertise of climate change and their relationship to environmental governance, particularly in Indonesia and the United States. She also focuses on environmental justice and decolonial approaches to technology.",SUCCESS
+Cindy Xiong Bearfield,tell me about Cindy Xiong Bearfield and their research areas,"Cindy Xiong Bearfield's primary research focuses on the intersection of visual perception, cognition, and data visualization. She investigates how visualization design influences human understanding, decision-making, and critical thinking, with an objective to develop models that measure and enhance trust in human-data interaction through effective visual data communication.
+
+Her research areas include:
+*   Information Visualization
+*   Visual Perception
+*   Decision Making
+*   Cognitive Psychology
+*   Human-Computer Interaction
+*   Decision Science
+*   Data Communication
+*   Experimental Psychology
+*   Computer Vision
+*   Machine Learning Interpretability
+*   Educational Psychology
+
+She also examines cognitive and perceptual biases in visual data interpretation, such as the ""curse of knowledge"" and the ""illusion of causality,"" and explores how these biases can be mitigated or amplified by visualization design choices. Her work delves into the ethical implications of visualization, including its impact on social outcomes and political polarization.",SUCCESS
+Clio Andris,tell me about Clio Andris and their research areas,"Clio Andris specializes in Geographic Information Science (GIScience), Urban Planning, and Social Network Analysis. Her expertise also includes Information Visualization, Geovisualization, Spatial Data Analysis, Human Geography, Urban Mobility, Computational Social Science, Geospatial Privacy, and Machine Learning in Geography.
+
+A significant part of her research involves developing mathematical models of social networks, social flows, and interpersonal relationships to understand their influence on urban spaces and to help create more connected cities.",SUCCESS
+Constantine Dovrolis,tell me about Constantine Dovrolis and their research areas,"Constantine Dovrolis is a Professor of Computer Science at the Georgia Institute of Technology. He also serves as the Director of the Center for Computational Science and Technology (CaSToRC) at The Cyprus Institute as of January 1, 2023, while maintaining a part-time hybrid role with Georgia Tech's School of Computer Science.
+
+His primary research areas include:
+*   Neuro-inspired Machine Learning, with an emphasis on designing neuro-inspired machine learning architectures.
+*   Network Science
+*   Computational Science
+*   Network Measurement and Analysis
+*   Internet Architecture and Protocols
+*   Quality of Service (QoS) and Differentiated Services
+*   Congestion Control and Performance
+*   Adaptive Streaming and Multimedia Networking
+*   Network Security and Routing (BGP)
+*   Computational Science and Modeling
+*   Machine Learning for Networks
+*   Network Economics and Ecosystems
+*   Distributed Systems and Overlay Networks
+
+His research group also focuses on applying network analysis and data mining in fields such as neuroscience, biology, climate science, and sociology, particularly in developing novel machine learning architectures inspired by brain network structures.",SUCCESS
+Dana Randall,tell me about Dana Randall and their research areas,"Dr. Dana Randall is a Regents' Professor and Associate Dean for Access and Advancement in the College of Computing at the Georgia Institute of Technology, where she also holds appointments as a Professor of Computer Science and an Adjunct Professor of Mathematics. She is also an external professor at the Santa Fe Institute.
+
+Her primary research focuses on randomized algorithms and stochastic processes, bridging computer science, discrete mathematics, and statistical physics, with a particular interest in emergent phenomena in computation and programmable active matter.
+
+Dr. Randall's research areas include:
+*   Theoretical Computer Science
+*   Algorithms
+*   Random Processes
+*   Markov Chain Monte Carlo Algorithms and their applications in:
+    *   Statistical Physics
+    *   Combinatorial Optimization
+    *   Graph Theory
+*   Computational Complexity
+*   Sampling and Approximation Algorithms
+*   Lattice Models (often focusing on distributed algorithms and collective computation)
+*   Analyzing algorithms for counting problems using Markov chains
+*   Exploring emergent phenomena",SUCCESS
+Danfei Xu,tell me about Danfei Xu and their research areas,"Danfei Xu is an Assistant Professor in the School of Interactive Computing at the Georgia Institute of Technology and a part-time Research Scientist at NVIDIA AI.
+
+His primary research goal is to enable physical autonomy in everyday human environments with minimal expert intervention, integrating principles from Robotics, Machine Learning, and Computer Vision. His work focuses on advancing visuomotor skill learning, developing structured world models for long-horizon planning, and exploring data-driven approaches to human-robot collaboration.
+
+Dr. Xu specializes in a broad range of research areas at the intersection of robotics and artificial intelligence, including:
+*   Robot Learning
+*   Computer Vision
+*   Reinforcement Learning
+*   Imitation Learning
+*   3D Reconstruction
+*   Object Pose Estimation
+*   Motion Planning
+*   Deep Learning
+
+He is particularly interested in the development of compositional and generalizable structures in robotics and vision, scene understanding in both 2D and 3D, generative models for robot training and validation, and developing new machine learning models that enable robots to self-adapt and improve ""on-the-job"".",SUCCESS
+Dante Ciolfi,tell me about Dante Ciolfi and their research areas,"Dante Ciolfi is a Research Associate II at the Georgia Institute of Technology. His primary research focuses on the intersection of web equity engineering and project-based learning at scale, with the goal of creating universally accessible and effective web experiences. He also works on refining pedagogy to foster collaborative student projects, particularly within the nonprofit sector.
+
+His research areas include:
+*   Pedagogical democratization
+*   Algorithmic transparency
+*   Web equity engineering
+*   Educational Technology
+*   Computer Science Education
+*   Pedagogy
+*   Educational Access
+*   Digital Divide
+*   Curriculum Development
+*   Lifelong Learning
+*   Software Engineering Education
+
+He often integrates UI/UX design principles to ensure universal accessibility in his technological solutions and emphasizes facilitating project-based learning experiences that allow students to engage with real-world problems.",SUCCESS
+David A. Joyner,tell me about David A. Joyner and their research areas,"David A. Joyner's research areas include Educational Technology, Learning at Scale, Artificial Intelligence in Education, Online Education, Computer Science Education, Learning Analytics, Instructional Design, Human-Computer Interaction, Educational Data Mining, Digital Pedagogy, and Educational Assessment. His primary passion is leveraging new technologies to enhance student learning, especially at scale, focusing on improving outcomes, expanding impact, and reducing costs in online education. His work also explores the roles of artificial intelligence, social communities, and interface design in improving educational experiences.",SUCCESS
+David Sherrill,tell me about David Sherrill and their research areas,"David Sherrill's research areas encompass physical, theoretical, and computational chemistry. His work focuses on computational quantum chemistry and scientific computing, specifically the development and application of advanced theoretical methods for understanding non-covalent interactions and creating robust *ab initio* electronic structure theories.
+
+His research also includes:
+*   Quantum chemistry
+*   Electronic structure theory
+*   Molecular modeling
+*   Development of *ab initio* methods, such as Density Functional Theory and Wave Function Theory
+*   Detailed study of noncovalent interactions relevant to drug binding, biomolecular structure, and organic crystals
+*   Algorithm development for quantum chemical computations to improve their efficiency and accuracy for complex systems",SUCCESS
+Divya Mahajan,tell me about Divya Mahajan and their research areas,"Divya Mahajan's research areas include Computer Architecture, System Infrastructure Design, and Machine Learning Systems, with a particular focus on hardware acceleration. Her expertise extends to Domain-Specific Accelerators, Hardware Acceleration, and Approximate Computing, where she explores methods to enhance efficiency while managing quality trade-offs. She also works on Parallel and Distributed Systems, concentrating on optimizing Recommender Systems and Deep Learning Hardware for both edge and large-scale deployments.
+
+Her notable contributions include:
+*   Developing novel design abstractions and benchmark suites for approximate computing to improve energy efficiency, computational area, and overall performance.
+*   Creating frameworks for accelerating deep neural networks and machine learning algorithms, enabling efficient mapping of models onto specialized hardware like FPGAs and optimizing device placement and training for complex models such as recommender systems and large language models.
+*   Establishing foundational work in system infrastructure design for AI and machine learning, integrating specialized hardware with data management systems, and co-optimizing hardware architecture and distribution for distributed deep learning training.",SUCCESS
+Duen Horng Chau,tell me about Duen Horng Chau and their research areas,"Duen Horng (Polo) Chau is a Professor in the School of Computational Science and Engineering at Georgia Institute of Technology, where he also co-directs the MS Analytics program. He is also a Researcher at Apple.
+
+His primary research focuses on bridging machine learning and visualization to create scalable, interactive, and trustworthy tools that enhance human understanding of large-scale data and complex AI models. He is deeply involved in human-centered AI, emphasizing interpretable, safe, and fair AI systems.
+
+Dr. Chau's research areas include:
+*   **Artificial Intelligence**
+*   **Human-Computer Interaction**
+*   **AI Safety**
+*   **Human-centered AI**
+*   **Visual Analytics**
+*   **Graph Mining**
+*   **Network Visualization**
+*   **Machine Learning**
+*   **Data Mining**
+*   **Computer Vision**
+*   **Network Analysis**
+*   **Information Visualization**
+*   **Cybersecurity**
+*   **Software Engineering**
+*   **Natural Language Processing**
+
+He particularly focuses on interpreting complex AI models and developing defenses against adversarial machine learning.",SUCCESS
+Edmond Chow,tell me about Edmond Chow and their research areas,"Edmond Chow specializes in numerical methods for high-performance computing, applied to large-scale problems in scientific computing and data science. His research areas include numerical linear algebra, focusing on preconditioning, multilevel methods, and sparse matrix computations. He also develops parallel methods for quantum chemistry, molecular dynamics, and Brownian/Stokesian dynamics. Additionally, he explores numerical methods for applications such as PDE models, inverse problems, data assimilation, uncertainty quantification, Gaussian processes, and machine learning.",SUCCESS
+Elizabeth M. Cherry,tell me about Elizabeth M. Cherry and their research areas,"Elizabeth M. Cherry is an Associate Professor in the School of Computational Science and Engineering at the Georgia Institute of Technology. Her primary research focuses on computational cardiac electrophysiology and arrhythmias, utilizing computational modeling and simulation to understand cardiac dynamics and design strategies for preventing and treating life-threatening arrhythmias.
+
+Her research areas include:
+*   Cardiac Dynamics
+*   Complex Systems
+*   Nonlinear Dynamics
+*   Mathematical Biology
+*   Cardiac Electrophysiology
+*   Computational Biology
+*   Mathematical Modeling
+*   Biomedical Engineering
+*   Dynamical Systems Theory
+*   Biophysics
+*   Machine Learning
+*   Medical Simulation
+
+Dr. Cherry's notable contributions include work on the Cardiac Physiome Project through developing comprehensive models of cardiac tissue electrophysiology, elucidating mechanisms of dangerous cardiac arrhythmias by studying spiral and scroll waves, and enabling real-time simulation of large-scale cardiac systems on accessible platforms for clinical diagnostics and patient-specific treatment planning.",SUCCESS
+Elizabeth Qian,tell me about Elizabeth Qian and their research areas,"Elizabeth Qian's research primarily focuses on developing advanced mathematical and computational methods to accelerate engineering design and decision-making for complex systems. Her specialized research areas include scientific machine learning, model reduction, and multi-fidelity methods.
+
+She also works in uncertainty quantification, operator learning, numerical solutions of partial differential equations (PDEs), computational science and engineering, optimization, dynamical systems, Bayesian inference, and surrogate modeling for complex systems. These methodologies are applied across various disciplines, particularly in aerospace sciences for tasks such as simulating rocket combustors and quantifying uncertainty in space mission design.",SUCCESS
+Ellen Zegura,tell me about Ellen Zegura and their research areas,"Ellen Zegura's research areas encompass foundational computer network research, focusing on wide-area (Internet) networking services, and computing for social good.
+
+Her specific research interests include:
+*   **Computer Networks**
+*   **Mobile and Wireless Networks**
+*   **Internet Topology**
+*   **Humanitarian Computing** and Information and Communication Technologies for Development (ICTD)
+*   **Delay-Tolerant Networking**
+*   **Software-Defined Networking**
+*   **Cloud Computing**
+*   **Peer-to-Peer Networks**
+*   **Network Routing**
+*   **Network Performance Analysis**
+*   **Distributed Systems**
+
+A significant part of her current work explores methods to enhance connectivity in challenged and intermittently connected environments, including virtual networks for agility and efficient resource utilization, and advancing mobile computing over intermittently connected networks. She investigates how computing can address societal problems, particularly concerning the digital divide and disparities in Internet access.",SUCCESS
+Felix J. Herrmann,tell me about Felix J. Herrmann and their research areas,"Felix J. Herrmann is a Professor at the Georgia Institute of Technology, holding cross-appointments in the Schools of Earth and Atmospheric Sciences, Computational Science and Engineering, and Electrical & Computer Engineering. He is also the Georgia Research Alliance Eminent Scholar in Energy. His research program is dedicated to advancing computational imaging sciences for both seismic and medical imaging, focusing on improving image quality, reducing costs, and minimizing environmental impact.
+
+His key research areas include:
+*   **Computational Seismology**, with a focus on Full-Waveform Inversion, Seismic Data Processing, and seismic data recovery and imaging.
+*   **Compressive Sensing** and **Sparse Reconstruction** for efficient data acquisition and processing.
+*   **Geophysical Inverse Problems**.
+*   **Mathematical Imaging**.
+*   **Numerical Analysis**.
+*   **Scientific Computing**.
+*   **Bayesian Inference**.
+*   **Deep Learning for Geophysics**.
+*   **Randomized Linear Algebra**.
+*   **Uncertainty Quantification**.
+*   **Digital Twins for Geological Carbon Storage**.",SUCCESS
+Francisco Romero,tell me about Francisco Romero and their research areas,"Francisco Romero specializes in Computer Architecture, Computer Systems, Databases, and Artificial Intelligence (AI), with a strong focus on Machine Learning Systems and Cloud Computing. His research also prominently features Serverless Computing, Video Analytics, and Database Systems, optimizing them for efficiency and performance at scale. Additionally, he conducts research in Human-Computer Interaction, Natural Language Processing, and Signal Processing, particularly in the context of behavioral analysis and psycholinguistic norms. A key aspect of his work involves developing robust solutions for machine learning inference serving and heterogeneous system scheduling to manage complex, multi-scale environments. He leads the LLAMAS Lab at Georgia Tech, where his primary research focuses on designing real-time and large-scale visual analysis systems that operate across cloud and edge environments, with a particular interest in AI-enabled wearables.",SUCCESS
+Frank Dellaert,tell me about Frank Dellaert and their research areas,"Frank Dellaert's primary research focuses on the intersection of robotics and computer vision, particularly leveraging Bayesian inference and graphical model techniques to address complex, large-scale problems in mapping, 3D reconstruction, and model-predictive control.
+
+His specific research areas include:
+*   Robotics
+*   Computer Vision
+*   Simultaneous Localization and Mapping (SLAM)
+*   Probabilistic Robotics
+*   Factor Graphs
+*   Motion Planning
+*   3D Reconstruction
+*   Object Recognition
+*   Sensor Fusion
+*   Machine Learning
+*   Advanced sequential Monte Carlo methods
+*   Spatio-temporal reconstruction from images",SUCCESS
+Glen Chou,tell me about Glen Chou and their research areas,"Glen Chou is an Assistant Professor at the Georgia Institute of Technology, holding appointments in the College of Computing's School of Cybersecurity & Privacy (SCP) and the College of Engineering's School of Aerospace Engineering (AE), with a secondary appointment in the School of Electrical and Computer Engineering (ECE). He is also affiliated with the Institute for Robotics and Intelligent Machines (IRIM) and the Machine Learning Center. As the director of the Trustworthy Robotics Lab, his primary research focuses on principled algorithms that enable general-purpose robots and autonomous systems to operate capably, safely, and securely with humans, maintaining resilience to real-world failures and uncertainty. He officially joined Georgia Tech in November 2024.
+
+His research areas include:
+*   Robotics
+*   Control and Optimization
+*   Machine Learning
+*   Safe Autonomy
+*   Human-Robot Interaction
+*   Control Theory
+*   Artificial Intelligence
+*   Autonomous Systems
+*   Reinforcement Learning
+*   Formal Methods
+*   Perception
+*   Robotic manipulation
+*   Vision-based navigation
+*   Aerospace autonomy
+*   Control of large-scale cyber-physical systems
+*   Formally-Verified Model-Based Control Synthesis
+*   Trustworthy Learning-Based Planning and Control",SUCCESS
+Greg Eisenhauer,tell me about Greg Eisenhauer and their research areas,"Greg Eisenhauer is a Senior Research Scientist at the Georgia Institute of Technology's College of Computing, where he also serves as the Technical Director of the Center for Experimental Research in Computer Systems. His primary research focuses on high-performance and ubiquitous applications, specifically data-intensive distributed applications in enterprise and high-performance computing environments.
+
+His research addresses critical challenges in:
+*   Online program monitoring
+*   Dynamic adaptation
+*   Performance evaluation
+*   Scalable communication systems
+
+Dr. Eisenhauer specializes in a broad spectrum of research areas, including:
+*   High Performance Computing (HPC)
+*   Streaming Data
+*   Flexible Communication
+*   Data Management
+*   Distributed Systems
+*   Scientific Computing
+*   Middleware for complex computing infrastructures
+*   Parallel Computing
+*   Data Analytics
+*   Monitoring Systems
+*   Stream Processing
+*   Computer Architecture
+
+His technical interests also include high-performance I/O for petascale machines, managing large-scale systems, runtime performance monitoring and control, and quality-of-service (QoS)-sensitive data streaming in pervasive and wide-area systems.",SUCCESS
+Greg Turk,tell me about Greg Turk and their research areas,"Greg Turk is a distinguished Professor in the School of Interactive Computing within the College of Computing at the Georgia Institute of Technology.
+
+His primary research endeavors span the critical intersections of computer graphics, biological simulation, and scientific visualization. His work also encompasses significant contributions to robotics and machine learning.
+
+Dr. Turk's expertise covers a broad spectrum of research areas within computer science, including:
+*   Computer Graphics
+*   Robotics
+*   Scientific Visualization
+*   Geometric Modeling, with a focus on Implicit Surfaces and Surface Reconstruction techniques
+*   Texture Synthesis, particularly using reaction-diffusion processes and graph cuts
+*   Physics-Based Animation, including the simulation of fluids and deformable materials
+*   Machine Learning, specifically addressing topics like robot control policies
+*   Computational Geometry, including human dressing animation",SUCCESS
+Haesun Park,tell me about Haesun Park and their research areas,"Haesun Park's research spans a diverse range of areas, including Numerical Algorithms, Data Analysis, Visual Analytics, and Parallel Computing. Her work extensively covers Machine Learning, Data Mining, Pattern Recognition, Computer Vision, Bioinformatics, Applied Mathematics, Numerical Analysis, Scientific Computing, Signal Processing, and Information Retrieval.
+
+A significant portion of her research focuses on Nonnegative Matrix Factorization (NMF) and its variations, which she applies to problems such as clustering, dimension reduction, and topic modeling, including the development of high-performance software for NMF. She has also made substantial contributions to Generalized Discriminant Analysis for feature extraction and classification, particularly in undersampled problems. Her primary research focuses on numerical computing, large-scale data analysis, and visual analytics, with applications spanning bioinformatics, text mining, and homeland security.",SUCCESS
+Harish Ravichandar,tell me about Harish Ravichandar and their research areas,"Harish Ravichandar is an Assistant Professor in the School of Interactive Computing and directs the Structured Techniques for Algorithmic Robotics (STAR) Lab at the Georgia Institute of Technology.
+
+His primary research focuses on developing structured computational and learning frameworks with appropriate inductive biases to improve robots' efficiency, reliability, and generalizability. His work addresses robotics applications such as dexterous manipulation and multi-agent coordination in dynamic, unstructured, and human-in-the-loop environments.
+
+His research areas include:
+*   Robot Learning
+*   Multi-Robot Systems
+*   Human-Robot Interaction
+*   Dexterous Manipulation
+*   Machine Learning
+*   Motion Planning
+*   Task Allocation and Scheduling
+*   Artificial Intelligence
+*   Control Theory
+*   Imitation Learning
+
+A significant portion of his research involves methods for robots to acquire new skills by learning from human demonstrations, often using dynamical systems and contraction analysis. He also works on human intention inference for seamless human-robot collaboration and robust task assignment and scheduling for heterogeneous multi-robot teams.",SUCCESS
+Helen Xu,tell me about Helen Xu and their research areas,"Helen Xu's research focuses on parallel and high-performance computing, with a strong emphasis on designing cache-friendly algorithms and data structures to optimize software performance. Her research areas include:
+
+*   **Parallel Algorithms**
+*   **High-Performance Computing**
+*   **Software Performance Engineering**
+*   **Caching, Cache Coherence and Locality, and Algorithmic Analysis**
+*   **Data Structures** (especially for Graph Algorithms and In-Memory Databases)
+*   **Scientific Computing**
+*   **Machine Learning** (Neural Computing)
+*   **Cybersecurity**
+*   **Dynamic graph representations**
+*   **Multicore caching strategies**
+*   **Design of advanced, locality-optimized data structures**",SUCCESS
+Humphrey Shi,tell me about Humphrey Shi and their research areas,"Dr. Humphrey Shi specializes in artificial intelligence and computer vision. His core research interests include High Performance AI, Multimodal AI, and Creative AI, with a focus on developing robust AI systems.
+
+His work extensively covers Computer Vision tasks such as:
+*   Semantic Segmentation
+*   Image Super-Resolution
+*   Object Detection
+*   Human Pose Estimation
+
+Furthermore, his research delves into advanced machine learning techniques, including:
+*   Deep Learning
+*   Transfer Learning
+*   Domain Adaptation
+*   Generative Models
+*   Transformer Networks
+
+His primary mission is to develop next-generation multimodal AI systems that enhance intelligence, creativity, and human interaction in a responsible and efficient manner.",SUCCESS
+Hyesoon Kim,tell me about Hyesoon Kim and their research areas,"Hyesoon Kim is a Professor in the School of Computer Science at the Georgia Institute of Technology, where she leads the High Performance Architecture (HPArch) research group and co-directs the Center for Research into Novel Computing Hierarchies (CRNCH). Her primary research focuses on designing high-performance, energy-efficient computer architectures, with a specific emphasis on the intersection of computer architecture, compilers, and runtime systems, particularly addressing challenges in heterogeneous architectures like GPUs and near-data processing.
+
+Her research areas include:
+*   Computer Architecture
+*   Compiler Design
+*   Interaction between programmers, compilers, and architectures
+*   Parallel Computing
+*   GPU Computing, including performance modeling and analysis
+*   Memory Systems
+*   Heterogeneous Computing
+*   Near-Memory Computing
+*   Deep Learning Hardware
+*   Hardware Security
+*   Memory bandwidth
+*   Cache mechanisms
+*   Multithreading
+*   Operating systems in the context of high-performance and embedded systems.
+
+Dr. Kim's notable works include developing foundational analytical models for GPU architectures, making significant contributions to exploiting parallelism on heterogeneous multiprocessors through adaptive mapping techniques, and extending her work to processing-in-memory (PIM) and hardware security. This includes projects like enabling instruction-level PIM offloading in graph computing frameworks, exploring transparent hardware management of stacked DRAM, and researching fine-grained control flow in trusted execution environments.",SUCCESS
+HyunJoo Oh,tell me about HyunJoo Oh and their research areas,"Dr. HyunJoo Oh is an Assistant Professor at Georgia Tech with a joint appointment in the School of Industrial Design and the School of Interactive Computing. She directs the CoDe Craft group.
+
+Her primary research areas include:
+*   Human-Computer Interaction (HCI)
+*   Digital Fabrication
+*   Design
+*   Craft-based Design
+*   Tangible Computing
+*   Educational Technology
+*   Wearable Technology
+*   Robotics
+*   Sustainable Electronics
+*   Computational Design
+*   Haptics
+*   Interaction Design
+
+A significant focus of her work is on digital craft and creative play, particularly through the development of paper mechatronics, which integrates traditional papercraft with mechanical, electrical, and computational components. She also explores sustainable approaches to electronics, designing transient and recyclable computing devices to address environmental concerns.",SUCCESS
+Irfan Essa,tell me about Irfan Essa and their research areas,"Irfan Essa's primary research focuses on understanding and generating visual and behavioral data. His research areas include Computer Vision, Artificial Intelligence, Machine Learning, Computer Graphics, Computational Perception, Robotics, Computer Animation, and Human-Computer Interaction.
+
+He also has expertise in Signal Processing, Pattern Recognition, Natural Language Processing, Graphics and Visualization, Medical Imaging and Diagnostics, Computational Behavioral/Social Sciences, and Computational Journalism. A significant portion of his work explores intelligent and aware environments, facial expression analysis, and innovative techniques for video analysis and production, including cutting-edge generative AI models for visual content.",SUCCESS
+J. Sukarno Mertoguno,tell me about J. Sukarno Mertoguno and their research areas,"J. Sukarno Mertoguno specializes in a broad spectrum of research areas, primarily focusing on Cybersecurity and Computer Architecture.
+
+His work deeply explores:
+*   Cyber-Physical Systems (CPS) Security and Resilience, with an emphasis on safeguarding critical infrastructure against faults and cyber threats.
+*   Machine Learning for Security and Systems.
+*   Software Reverse Engineering and Analysis.
+*   Automated Vulnerability Detection and Analysis.
+
+His earlier research also extended to:
+*   Computer Vision and Image Processing Systems.
+*   Expert Systems and Knowledge Representation.
+*   Hardware-Software Co-design.
+*   Networked Systems Security.
+*   Autonomous Systems and Control.",SUCCESS
+Jacob Abernethy,tell me about Jacob Abernethy and their research areas,"Jacob Abernethy's research areas primarily focus on Machine Learning, where he investigates the connections between Optimization, Statistics, and Economics. His work also covers sequential decision making, online learning, online algorithms, and adversarial learning models.
+
+His expertise spans a comprehensive range of domains within Computer Science, including:
+*   Machine Learning
+*   Game Theory
+*   Sequential Decision Making
+*   Online Learning
+*   Optimization
+*   Reinforcement Learning
+*   Algorithmic Game Theory
+*   Econometrics
+*   Financial Engineering
+*   Data Science
+
+A significant part of his research involves exploring the theoretical foundations of these fields to develop robust and efficient algorithms for complex decision-making problems in dynamic and often adversarial settings.",SUCCESS
+Jacob Laurel,tell me about Jacob Laurel and their research areas,"Jacob Laurel is an Assistant Professor in the School of Computer Science at the Georgia Institute of Technology. His primary research centers on the static analysis of programming languages that incorporate continuous computations, including differentiable and probabilistic programming languages, as well as scientific computing. His goal is to develop programs that can automatically verify whether other programs adhere to specific mathematical properties, especially in applications involving machine learning models and statistical computations.
+
+His research areas include:
+*   Programming Languages
+*   Static Analysis
+*   Compilers
+*   Machine Learning
+*   Abstract Interpretation
+*   Probabilistic Programming
+*   Automatic Differentiation
+*   Formal Verification
+*   Deep Learning
+*   Uncertainty Quantification
+*   Embedded Systems
+*   Video Summarization (earlier in his career)",SUCCESS
+James Foley,tell me about James Foley and their research areas,"James Foley's research areas include Computer Graphics, Human-Computer Interaction (HCI), Information Visualization, User Interface Design, Model-Based Systems, Knowledge-Based Systems, Interactive Systems, Virtual Reality, Educational Technology, and Software Engineering. His work has also focused on instructional technologies and distance education.",SUCCESS
+James Hays,tell me about James Hays and their research areas,"James Hays specializes in Computer Vision, Robotics, Machine Learning, and Artificial Intelligence. His research areas include Image Recognition, Object Detection, Scene Understanding, Geolocation techniques, and Generative Models for image synthesis and manipulation. He also focuses on exploiting new data sources such as geotagged imagery, sketches, and grasp data, and his work frequently involves the creation and utilization of large-scale datasets and applying data science principles.",SUCCESS
+Jan van den Brand,tell me about Jan van den Brand and their research areas,"Dr. Jan van den Brand specializes in the design and theoretical analysis of efficient algorithms and data structures. His research areas include:
+
+*   Data Structures
+*   Algebraic Algorithms
+*   Convex and Combinatorial Optimization
+*   Algorithms and Complexity Theory
+*   Graph Algorithms
+*   Linear Algebra
+*   Theoretical Computer Science
+*   Dynamic Algorithms (emphasizing those for constantly changing graphs and matrices)
+*   Randomized and Approximation Algorithms
+*   Optimization Algorithms",SUCCESS
+Jennifer G. Kim,tell me about Jennifer G. Kim and their research areas,"Jennifer G. Kim's research primarily focuses on Human-Computer Interaction (HCI) and Computer-Supported Cooperative Work (CSCW), with a strong emphasis on health and wellbeing. Her work investigates the design and evaluation of social and health information systems that promote diversity, advocacy, and empathy, particularly for neurodiverse individuals and their communities.
+
+Her specialized research areas include:
+*   Human-Computer Interaction
+*   Computer-Supported Cooperative Work
+*   Assistive Technologies
+*   Autism Spectrum Disorder Research
+*   Social Computing
+*   Virtual Reality in Education and Training
+*   Health Informatics
+*   Data Visualization and Analytics
+*   Human-Robot Interaction
+*   Accessibility and Inclusive Design
+*   Large Language Models (LLMs) and AI-driven solutions in health and social contexts",SUCCESS
+Jessica Roberts,tell me about Jessica Roberts and their research areas,"Dr. Jessica Ann Roberts is an Associate Professor in the School of Interactive Computing at the Georgia Institute of Technology, where she directs the Technology-Integrated Learning Environments (TILEs) Lab. Her primary research focuses on technology-mediated social learning experiences and public engagement with science and scientific data.
+
+Her research areas span:
+*   Learning Sciences
+*   Human-Data Interaction
+*   Science Education
+*   Child-Computer Interaction
+*   Human-Computer Interaction (HCI)
+*   Educational Technology
+*   Museum Studies
+*   Artificial Intelligence Literacy
+*   Embodied Cognition
+*   Data Visualization
+*   Informal Learning, often with a focus on Geospatial Analysis and Visualization.
+
+She employs an interdisciplinary approach to design technologies that support learning across various contexts.",SUCCESS
+John Stasko,tell me about John Stasko and their research areas,"John Stasko's primary research focuses on data and information visualization, particularly from a human-computer interaction perspective.
+
+His main research areas include:
+*   Information Visualization
+*   Visual Analytics
+*   Human-Computer Interaction
+*   Software Visualization
+*   Algorithm Visualization
+*   Data Visualization
+*   Computer Science Education
+*   Interaction Design
+*   Data Science
+*   Cognitive Science
+
+A significant part of his work involves exploring new interaction methods for information visualization across various platforms, including touch-sensitive and natural language interfaces, and the meticulous evaluation of visualizations using both quantitative and qualitative methods.",SUCCESS
+Jon Duke,tell me about Jon Duke and their research areas,"Dr. Jon Duke is the Director of the Center for Health Analytics and Informatics at the Georgia Tech Research Institute (GTRI) and a Principal Research Scientist in the School of Interactive Computing at Georgia Tech. He also serves as the Administrator for the Georgia All-Payer Claims Database (APCD).
+
+His primary research focuses on techniques for identifying patients of interest from diverse data sources, with applications in research, quality improvement, and clinical domains. He also emphasizes applying big data and human-computer interaction principles to enhance medication safety.
+
+Dr. Duke specializes in a wide array of research areas at the intersection of medicine and technology, including:
+*   Health Informatics
+*   Clinical Decision Support Systems
+*   Observational Health Data Science, with notable involvement in the OHDSI collaborative
+*   Pharmacovigilance, where he uses advanced analytics to monitor drug safety
+*   Natural Language Processing in Healthcare for extracting insights from clinical text
+*   Biomedical Data Science
+*   Development of Medical Record Systems
+*   Comparative Effectiveness Research
+*   Medical Data Visualization for effective presentation of complex health information
+*   Generative Models in Healthcare for creating synthetic patient data",SUCCESS
+Jon R. Lindsay,tell me about Jon R. Lindsay and their research areas,"Jon R. Lindsay is an Associate Professor at the School of Cybersecurity and Privacy and the Sam Nunn School of International Affairs at Georgia Tech. His primary research focuses on the role of emerging technology in global security, investigating how advancements in artificial intelligence and cybersecurity influence international relations and military power.
+
+His key research areas include:
+*   International security
+*   Cybersecurity
+*   Military power (evolving nature)
+*   Military strategy
+*   Deterrence theory
+*   International Relations theory
+*   Artificial Intelligence in Warfare
+*   Cyber conflict
+*   Intelligence studies
+*   Geopolitics
+*   Technological change in warfare",SUCCESS
+Joseph Jaeger,tell me about Joseph Jaeger and their research areas,"Joseph Jaeger is an Assistant Professor in the School of Cybersecurity and Privacy at the Georgia Institute of Technology. His primary research is focused on cryptography, specifically at the intersection of computer security and theoretical computer science.
+
+His research areas include:
+*   Cryptography and Security
+*   Symmetric and Asymmetric Cryptography
+*   Provable Security
+*   Cryptographic Protocols
+*   Network Security
+*   Data Security and Privacy
+*   Mobile Security
+*   Quantum Cryptography
+*   Advanced Security Proofs, including memory-tight reductions and mechanisms for handling adaptive compromise in encryption schemes.",SUCCESS
+Josiah Hester,tell me about Josiah Hester and their research areas,"Josiah Hester's research areas include Ubiquitous Computing, Battery-Free Systems, Wearables, and Intermittent Computing. His expertise also spans Embedded Systems, Pervasive Computing, Internet of Things (IoT), Energy Harvesting Systems, Low-Power Computing, Computer Architecture, Sensor Networks, Machine Learning, and Human-Computer Interaction. A central theme in his work is reimagining computing for sustainability, where he designs systems that operate without traditional batteries, drawing energy from ambient sources. He develops energy harvesting, battery-free, and intermittently powered ubiquitous and wearable computing systems with applications in healthcare, conservation, and interactive devices. His research integrates his Native Hawaiian (Kānaka Maoli) heritage to inform approaches for large-scale sensing in conservation and health wearables.",SUCCESS
+Joy Arulraj,tell me about Joy Arulraj and their research areas,"Joy Arulraj specializes in data management and database systems. His research areas include Databases, Database Systems, Data Management, and Non-Volatile Memory Systems, exploring how new hardware technologies influence system design. He also conducts extensive research in Query Optimization, Performance Analysis and Tuning, Concurrency Control, System Debugging and Testing, and Index Structures. A significant portion of his current work involves Video Analytics and the application of Machine Learning for Systems, particularly in developing AI-relational data systems such as EVA. His primary research also covers large-scale data analytics, main memory systems, machine learning, and big code analytics, with a focus on developing advanced systems for efficiently querying video datasets by integrating techniques from data systems and machine learning.",SUCCESS
+Judith Odili Uchidiuno,tell me about Judith Odili Uchidiuno and their research areas,"Judith Odili Uchidiuno is an Assistant Professor in the School of Interactive Computing at the Georgia Institute of Technology, where she directs the Play and Learn Lab. Her research focuses on designing culturally-informed computer science education technologies and expanding access to CS education for students from low-income and underserved communities, aiming to create sustainable and equitable learning opportunities through technological interventions.
+
+Her research areas include:
+*   Learning Sciences
+*   Human-Computer Interaction (HCI)
+*   Educational Technology
+*   Artificial Intelligence in Education
+*   Human-Robot Interaction
+*   Accessibility
+*   Design Research
+*   Culturally Responsive Pedagogy
+*   Mixed Methods Research
+
+She also investigates motivation and engagement in online learning environments, especially for English Language Learners in MOOCs, and the design of learning technologies for diverse cultural and socioeconomic contexts. Additionally, her work explores the evolution of engagements and social bonds during child-parent co-design processes.",SUCCESS
+Judy Hoffman,tell me about Judy Hoffman and their research areas,"Dr. Judy Hoffman is an Associate Professor at Georgia Tech whose primary research focuses on advancing Artificial Intelligence and Computer Vision. She specializes in Deep Learning, with a strong emphasis on methodological innovations in Domain Adaptation and Transfer Learning. Her research also extensively covers Representation Learning, Object Detection, Visual Recognition, Self-Supervised Learning, and Generative Adversarial Networks. Her work addresses challenges related to domain shift and dataset bias, aiming to enable AI systems to generalize effectively across diverse environments and tasks.",SUCCESS
+Jun Xu,tell me about Jun Xu and their research areas,"Jun (Jim) Xu is a Professor in the School of Computer Science at the Georgia Institute of Technology. His primary research thrust is ""Network Algorithmics,"" which involves the science of designing high-speed Internet routers, firewalls, and measurement devices.
+
+His research areas include:
+*   Computer Networking
+*   Network Algorithmics
+*   Data Streaming Algorithms
+*   Performance Evaluation
+*   Network Security
+*   Network Performance Analysis
+*   Distributed Systems
+*   Algorithms and Data Structures
+*   Traffic Engineering
+*   Peer-to-Peer Networks
+*   Network Measurement
+*   Information Theory
+*   Principled network troubleshooting
+*   Worst-case large deviation for network algorithmics",SUCCESS
+KARTIK GOYAL,tell me about KARTIK GOYAL and their research areas,"Dr. Kartik Goyal specializes in research at the intersection of Machine Learning and Natural Language Processing. His expertise covers Artificial Intelligence, Computational Linguistics, Information Retrieval, and developing interpretable and controllable probabilistic models of latent structure in data. He is also actively involved in Privacy-Preserving Machine Learning, focusing on the vulnerabilities of models like Masked Language Models. Furthermore, his research extends to interdisciplinary fields such as Digital Humanities and Cultural Analytics, including computational history and the analysis of early modern printing.",SUCCESS
+Kai Wang,tell me about Kai Wang and their research areas,"Kai Wang is an Assistant Professor in the School of Computational Science and Engineering (CSE) at the Georgia Institute of Technology, having joined in Spring 2024.
+
+His primary research focuses on developing solutions using artificial intelligence, machine learning, optimization, and multi-agent systems to achieve significant social impact. He addresses challenges in health, public health, and environmental sustainability by deploying AI algorithms designed to generate real-world benefits.
+
+Dr. Wang's key research areas include:
+*   **Decision-Focused Learning (DFL)**
+*   **Reinforcement Learning**
+*   **Optimization**
+*   **Multi-Agent Systems**
+*   **Game Theory**
+*   **Online Learning**
+*   **Operations Research**
+*   **Applied Mathematics** (particularly in security games and sequential decision problems)
+
+He applies these techniques to real-world problems such as maternal and child health, wildlife conservation, and network security.",SUCCESS
+Keith Adkins,tell me about Keith Adkins and their research areas,"Keith L. Adkins is a Research Associate I in the College of Computing at the Georgia Institute of Technology, affiliated with the Online Master of Science Computer Science (OMSCS) program. He also serves as the Director of Academic Integrity at Georgia Tech.
+
+His primary research focuses on addressing academic integrity challenges in online learning environments, particularly within large computer science classes, and developing solutions for effective plagiarism detection and prevention.
+
+His key areas of expertise include:
+*   Wireless Communications
+*   Telecommunications Engineering
+*   Signal Processing
+*   Computer Science Education
+*   Academic Integrity
+*   Plagiarism Detection
+*   Educational Technology
+*   Software Engineering Education
+*   Online Learning
+*   Information Security",SUCCESS
+Ketan Bhardwaj,tell me about Ketan Bhardwaj and their research areas,ERROR: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.,ERROR
+Kexin Rong,tell me about Kexin Rong and their research areas,"Kexin Rong is an Assistant Professor in the School of Computer Science at Georgia Institute of Technology. Her primary research focuses on building innovative systems and algorithms to democratize data science, making complex data insights accessible and manageable for non-experts.
+
+Her research areas include:
+*   Data Management
+*   Data Systems
+*   Big Data Analytics
+*   Machine Learning
+*   Database Systems
+*   Data Mining
+*   Information Retrieval
+*   Computer Systems
+*   Artificial Intelligence
+*   Human-Computer Interaction
+*   Signal Processing
+
+She is particularly interested in synthesizing techniques from data management, machine learning, and human-computer interaction to create robust tools and systems for managing and interpreting massive datasets. A significant portion of her research addresses the challenges of processing fast data streams, scaling data-driven scientific applications, and optimizing machine learning pipelines.",SUCCESS
+Kim  Luong MacLeod,tell me about Kim  Luong MacLeod and their research areas,"Kim Luong MacLeod specializes in a diverse array of research fields, including Criminology, Cybersecurity, Law, Sociology, Public Policy, Forensic Science, Information Science, Risk Management, Consumer Protection, and Ethics. Her primary research focuses on the societal, legal, and ethical dimensions of identity theft, specifically examining criminal record identity theft versus financial identity theft. Her work emphasizes understanding all realms of identity theft, protections, rights, and options for victims.",SUCCESS
+Kristine Nagel,tell me about Kristine Nagel and their research areas,"Dr. Kristine Nagel specializes in a diverse array of interconnected research areas, bridging human-centered computing with educational innovation, focusing on issues of diversity and inclusion in STEM.
+
+Her research areas include:
+*   Electrical and Computer Engineering
+*   Human-Computer Interaction (HCI)
+*   Educational Technology
+*   Computer-Supported Cooperative Work
+*   Ubiquitous Computing
+*   Software Engineering (particularly as they apply to human communication and collaborative learning environments)
+*   Computing Diversity
+*   Diversity and Inclusion in STEM
+*   Information Systems
+*   Human Communication
+*   Artificial Intelligence (Activity Recognition)
+*   Learning Sciences
+
+Her work often involves the design and evaluation of context-aware technologies and collaborative pedagogical tools, utilizing strategies like programming boot camps and service-learning to enhance student engagement and retention in computing fields.",SUCCESS
+Kuldeep S. Meel,tell me about Kuldeep S. Meel and their research areas,ERROR: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.,ERROR
+KwangHo Park,tell me about KwangHo Park and their research areas,ERROR: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.,ERROR
+Larry Heck,tell me about Larry Heck and their research areas,"Larry Heck is a Professor at the Georgia Institute of Technology, holding the Rhesa Screven Farmer, Jr., Advanced Computing Concepts Chair and serving as a Georgia Research Alliance Eminent Scholar. He has a joint appointment across the School of Electrical and Computer Engineering and the School of Interactive Computing. Additionally, he is the Co-Executive Director of the Machine Learning Center and Executive Director of the AI Hub at Georgia Tech.
+
+His research areas include:
+*   Conversational AI
+*   Dialogue Systems
+*   Multimodal Large Language Models (LLMs)
+*   Speech Technology
+*   Spoken Language Understanding
+*   Natural Language Processing
+*   Machine Learning
+*   Deep Learning
+*   Speaker Recognition
+*   Multimodal Interaction
+*   Information Retrieval
+
+At Georgia Tech's AI Virtual Assistant (AVA) Lab, his primary research focuses on developing next-generation virtual digital assistants and advancing Conversational AI with LLMs. This involves exploring LLM response generation, enhancing natural language and speech processing to create autonomous digital humans, and developing human-computer interaction designs for virtual assistants in various interaction types (single, multimodal, and situated interactions in mixed reality environments). He also researches task-oriented conversations, open-domain chit-chat, and knowledge-driven interactions to improve the accuracy, trustworthiness, and efficiency of conversational systems.",SUCCESS
+Lien Diaz,tell me about Lien Diaz and their research areas,"Lien Diaz specializes in a diverse range of research areas, including Equity in CS Education, Broadening Participation in Computing, Coaching Inclusive Pedagogy, Curriculum Development for AP Computer Science courses, and Social Justice in Education. Her work also focuses on developing Instructional Coaching models and policies for K-12 and Higher Education, aiming to dismantle systemic barriers to equitable computing access. A significant portion of her research addresses the impact of systemic school structures, educator preparation, and curriculum in creating inclusive learning spaces for all students.",SUCCESS
+Ling Liu,tell me about Ling Liu and their research areas,"Dr. Ling Liu, a Professor in the School of Computer Science at Georgia Institute of Technology, leads the Distributed Data Intensive Systems Lab (DiSL). Her research primarily focuses on issues of performance, availability, security, privacy, and trust within big data systems, cloud computing, and diverse distributed computing environments.
+
+Her research areas include:
+*   Distributed Computing Systems
+*   Database Systems
+*   Privacy-Security-Trust
+*   Cloud Computing
+*   Big Data Systems/Data Analytics
+*   Privacy-Preserving Technologies
+*   Security Engineering
+*   Machine Learning Security
+*   Data Mining
+*   Mobile Computing
+*   Information Systems
+*   Network Security
+
+Her research group also actively explores topics such as:
+*   Decentralized and social computing
+*   Mobile and location-based services
+*   Sensor networks
+*   Event stream processing
+*   Service-oriented computing and architectures
+
+More recently, her work has delved into advanced areas like:
+*   Blockchain security
+*   Federated learning privacy
+*   Adversarial attacks in machine learning systems",SUCCESS
+Lynn Dombrowski,tell me about Lynn Dombrowski and their research areas,ERROR: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.,ERROR
+M. Mahdi Roozbahani,tell me about M. Mahdi Roozbahani and their research areas,"M. Mahdi Roozbahani specializes in Machine Learning, Modeling and Simulation, and Data Science. His research extensively covers Computational Mechanics, particularly focusing on Granular Materials, Geotechnical Engineering, and Soil Mechanics, where he investigates particle packing, pore structures, and material behavior. Additionally, his interests include Civil Engineering, Urban Planning, network analysis, and Artificial Intelligence Education.",SUCCESS
+Mahender Mandala,tell me about Mahender Mandala and their research areas,"Mahender Mandala is a Research Scientist I in the School of Interactive Computing at the Georgia Institute of Technology. His primary research focuses on the intersection of design, engineering, and education, with a strong emphasis on human-computer interaction (HCI) and assistive technologies.
+
+His research areas include:
+*   Human-Computer Interaction (HCI)
+*   Assistive Technology
+*   Rehabilitation Engineering
+*   Inclusive Design
+*   Engineering Design
+*   Product Design
+*   Design Education
+*   Computer Science Education
+*   Biomedical Engineering
+*   Service Learning
+
+He is dedicated to developing innovative solutions that promote inclusive design and enhance rehabilitation engineering, particularly for individuals with disabilities. His work also explores the application of technology to address real-world challenges, such as improving patient outcomes in healthcare settings and fostering equitable learning opportunities in STEM education.",SUCCESS
+Mark Borodovsky,tell me about Mark Borodovsky and their research areas,"Mark Borodovsky is a Regents' Professor in the Joint Wallace H. Coulter Department of Biomedical Engineering at Georgia Institute of Technology and Emory University, and also serves as the Director of the Center for Bioinformatics and Computational Genomics at Georgia Tech. He founded Georgia Tech's graduate Program in Bioinformatics (M.Sc. and Ph.D.).
+
+His primary research focuses on developing machine learning algorithms for the computational analysis of biological sequences, including DNA, RNA, and proteins. A significant aspect of his work involves predicting protein-coding genes and regulatory sites within genomic DNA, employing probabilistic models.
+
+Dr. Borodovsky specializes in a wide array of research areas within bioinformatics and computational biology, including:
+*   Genomics
+*   Computational Biology
+*   Bioinformatics software development for gene prediction and genome annotation
+*   Microbial Genomics
+*   Evolutionary Biology
+*   Statistical Modeling in Biology
+
+He has made substantial contributions through influential computational tools, such as the GeneMark program, which utilizes inhomogeneous Markov chain models for modeling protein-coding regions and was crucial in annotating early completely sequenced genomes like *Haemophilus influenzae* and *Methanococcus jannaschii*. His group also developed the BRAKER pipeline for accurate and automated eukaryotic genome annotation, integrating RNA-seq and protein evidence. These methods are widely used globally.",SUCCESS
+Mark Riedl,tell me about Mark Riedl and their research areas,"Mark Riedl is a Professor in the College of Computing, specifically in the School of Interactive Computing at the Georgia Institute of Technology. He is also the Director of the Entertainment Intelligence Lab and the Associate Director of the Georgia Tech Machine Learning Center.
+
+His primary research focuses on human-centered artificial intelligence, developing AI and machine learning technologies that can understand and interact with human users more naturally. His work explores the intersection of AI, virtual worlds, and storytelling to create engaging and intelligent computational systems.
+
+Dr. Riedl specializes in a comprehensive range of research areas, including:
+*   Artificial Intelligence (AI)
+*   Machine Learning (ML)
+*   Human-Computer Interaction (HCI)
+*   Storytelling Technologies
+*   Computational Narrative (including automated story generation and interactive narrative systems)
+*   Explainable AI (XAI)
+*   Safe AI
+*   Intelligent Agents
+*   Natural Language Processing (NLP)
+*   Game Design and Development
+*   Computational Creativity
+*   Sociotechnical Systems",SUCCESS
+Matthew Gombolay,tell me about Matthew Gombolay and their research areas,"Matthew Gombolay is an Associate Professor of Interactive Computing at the Georgia Institute of Technology and the Director and Founder of the Cognitive Optimization and Relational (CORE) Robotics Laboratory. His primary research focuses on democratizing robotic technology by enabling robots to learn from diverse human demonstrations, understanding and supporting human partners through explainable AI, and effectively coordinating in human-robot teams.
+
+His key areas of specialization include:
+*   Human-Robot Interaction (HRI)
+*   Explainable Artificial Intelligence (XAI)
+*   Multi-Agent Reinforcement Learning (MARL)
+
+He also conducts extensive research in:
+*   Robotics
+*   Machine Learning (ML)
+*   Artificial Intelligence (AI)
+*   Multi-Agent Systems
+*   Reinforcement Learning
+*   Intelligent Systems
+*   Computer Vision
+*   Operations Research
+
+More recently, his work has expanded into:
+*   Deep reinforcement learning
+*   Graph neural networks (GNNs)
+*   Natural language processing (NLP)
+
+His work aims to realize the potential of robots in critical domains such as autonomous vehicles, healthcare, manufacturing, and national security.",SUCCESS
+Melody Moore Jackson,tell me about Melody Moore Jackson and their research areas,"Dr. Melody Moore Jackson is an Associate Professor in the College of Computing at the Georgia Institute of Technology. She directs both the Georgia Tech BrainLab and the Georgia Tech Animal-Centered Computing Lab.
+
+Her primary research areas include:
+*   **Brain-Computer Interfaces (BCI)** and **Neurotechnology**: This involves developing non-muscular communication and control channels for individuals with ""locked-in syndrome"" and exploring ways to restore movement to paralyzed limbs. She contributed to the first team to implant a human with a chronic recording electrode in 1998. Her work also covers continuous control paradigms for direct brain interfaces and methods to predict and assess control of BCIs.
+*   **Animal-Computer Interaction (ACI)**: This area focuses on creating sophisticated communication and monitoring tools for working animals. Notable projects include the FIDO (Facilitating Interactions for Dogs with Occupations) project, which developed wearable communication interfaces for working dogs, and research into canine suitability assessment using sensor-based methods to predict success in service dog training programs. Her lab also works on canine-centered computing, touchscreen interfaces for dogs, wearable sensors for canine nosework, and communication systems based on head gestures for dogs.
+*   **Human-Computer Interaction (HCI)**: This broadly covers the intersection of human and computer interaction, often applied to assistive technologies.
+*   **Assistive Technology**: Developing technologies to enhance the capabilities and improve the lives of individuals with severe motor disabilities and working animals.
+*   **Wearable Computing**: Designing and implementing wearable technologies for both humans and animals, such as communication interfaces for working dogs and activity trackers for pets.
+*   **Biomedical Engineering**: Applying engineering principles to biological and medical problems within her research.
+*   **Applied Machine Learning** and **Sensor Networks**: Utilizing these techniques to develop novel solutions in her fields of research, including for canine suitability assessment and monitoring canine activities.",SUCCESS
+Michael A. Specter,tell me about Michael A. Specter and their research areas,"Michael A. Specter's research areas include Computer Security, Cryptography, and Public Policy. He specializes in Vulnerability Discovery, System Security, Applied Cryptography, Election Security, and Privacy-Preserving Technologies. His work also covers Mobile Security, Vulnerability Analysis, Network Security, and Software Engineering. Additionally, he investigates societal implications of technology such as surveillance, cryptographic accountability, content moderation, misinformation, and election security.",SUCCESS
+Michael Donald Bailey,tell me about Michael Donald Bailey and their research areas,"Michael Donald Bailey specializes in a diverse range of research areas within computing systems. His key areas include Software Systems, Computer Security and Privacy, and Network Security. He also conducts extensive work in Systems and Network Measurement, Distributed Systems, and Malware Analysis and Defense. Additionally, his research encompasses topics such as Internet Architecture and Protocols, Cloud Computing Security, Usable Security and Privacy, Cryptography and Applied Cryptography, and Software Engineering. His primary research also focuses on exploring the security, performance, and availability properties of complex distributed computing systems.",SUCCESS
+Milos Prvulovic,tell me about Milos Prvulovic and their research areas,"Milos Prvulovic is a Professor in the School of Computer Science at Georgia Tech. His primary research focuses on developing hardware and software support for program monitoring, debugging, and security, with the goal of making both hardware and software more reliable and secure.
+
+His research areas include:
+*   Computer Architecture
+*   Computer Security
+*   Software Engineering
+*   Side Channels
+*   Hardware Security
+*   Microarchitecture
+*   Memory Systems
+*   Embedded Systems Security
+*   Information Leakage
+*   Debugging and Testing
+
+He particularly investigates side-channel emanations and attacks, exploring both their malicious exploitation and beneficial uses for purposes like program monitoring, profiling, and detecting malware or malicious hardware. His architectural interests also involve hardware support for secure execution and enhancements for multi-core performance, such as synchronization and transactional execution.",SUCCESS
+Moinuddin Qureshi,tell me about Moinuddin Qureshi and their research areas,"Moinuddin Qureshi is a Professor in the School of Computer Science at the Georgia Institute of Technology, where he also leads the Memory Systems Lab. His primary research focuses on advancing computer architecture, memory systems, hardware security, and quantum computing. His work aims to improve the performance, efficiency, and reliability of computing systems from traditional processors to emerging quantum devices.
+
+His specialized research areas include:
+*   Computer Architecture
+*   Memory Systems (including Non-Volatile Memory Technologies and advanced cache designs)
+*   Hardware Security (addressing vulnerabilities through innovative architectural frameworks)
+*   Quantum Computing (focusing on architectural challenges, error mitigation, and performance optimization for Noisy Intermediate-Scale Quantum (NISQ) computers)
+*   Computer Systems Design
+*   Computer Performance Analysis
+*   Cryptography
+*   Machine Learning Security
+*   Parallel and Distributed Systems",SUCCESS
+Mostafa Ammar,tell me about Mostafa Ammar and their research areas,"Mostafa Ammar's research areas include Networking, Networked Services, Wireless and Mobile Networks, Multicast, Multimedia Communication, Computer Networks, Network Protocols, Network Virtualization, Distributed Systems, Peer-to-Peer Networks, Network Security, Network Simulation, and Cloud Computing, including its mobile and edge manifestations.",SUCCESS
+Munmun De Choudhury,tell me about Munmun De Choudhury and their research areas,"Munmun De Choudhury specializes in Computational Social Science, Social Computing, Mental Health Informatics, and Digital Psychiatry. Her expertise also includes Natural Language Processing, Health Informatics, Machine Learning, Data Mining, Social Network Analysis, and Human-Computer Interaction. Her research is interdisciplinary, combining insights from psychology, sociology, medicine, and public health with computational methods.",SUCCESS
+Mustaque Ahamad,tell me about Mustaque Ahamad and their research areas,"Mustaque Ahamad is a Professor in the School of Computer Science within the College of Computing at the Georgia Institute of Technology. He also serves as the Associate Director of Education & Outreach for the Institute for Information Security & Privacy (IISP) and, since August 16, 2025, as the Interim Chair for the School of Cybersecurity and Privacy.
+
+His primary research areas include cybersecurity, distributed and dependable systems, converged communications security, and the security of healthcare systems.
+
+Dr. Ahamad specializes in:
+*   Cybersecurity
+*   Distributed Systems
+*   Operating Systems
+*   Data Replication
+*   Consistency Models
+*   Access Control
+*   Network Security
+*   Information Visualization
+*   Malware Analysis
+*   Telephony Security
+
+He also explores the security of future applications, including those involving converged communication networks and healthcare systems, often using a data-driven approach to combat cross-channel threats.",SUCCESS
+Nabil Imam,tell me about Nabil Imam and their research areas,"Nabil Imam's primary research focuses on machine learning and theoretical neuroscience, aiming to understand neural coding and computation and their technological applications. His work also explores the intersection of neuroscience and artificial intelligence, modeling biological computation using tools from probability theory and control systems.
+
+His specialized research areas include:
+*   Machine Learning
+*   Systems Neuroscience
+*   Neuromorphic Engineering
+*   VLSI Circuit Design
+*   Asynchronous Circuit Design
+*   Computer Architecture, particularly for brain-inspired computing systems
+*   Robotics
+*   Computer Vision
+*   Computational Neuroscience
+*   Artificial Intelligence
+*   Neural coding and computation, specifically how neural activity spikes underpin complex neural functions and their implementation in field-deployable neuromorphic chips
+*   Olfactory circuits
+*   Online learning within neuromorphic systems",SUCCESS
+Naveena Karusala,tell me about Naveena Karusala and their research areas,"Naveena Karusala specializes in research at the intersection of computing and social justice. Her expertise includes Human-Computer Interaction (HCI), Health informatics, Human-Centered AI, and the Future of Work. She critically examines issues through the lenses of Feminist HCI, Intersectionality in Computing, and Digital Inclusion and Equity, particularly in Global South contexts. Her methodological approach frequently involves qualitative research methods and participatory design. Her primary research focuses on centering care work in the design of Artificial Intelligence (AI) technologies for sustainable futures of work, especially in healthcare and social services.",SUCCESS
+Neha Kumar,tell me about Neha Kumar and their research areas,"Neha Kumar specializes in a diverse array of research areas at the intersection of computing and global development. Her expertise includes Human-Computer Interaction (HCI), Health, HCI for Development, Digital Health, Global Health, and Feminist HCI. She also focuses on Technology and Society, Mobile Computing, Assistive Technologies, Computer-Supported Cooperative Work (CSCW), and Cultural Computing. Her work frequently investigates mental health in the Global South and the implications of AI for social good, particularly in frontline health.",SUCCESS
+Nicholas Lytle,tell me about Nicholas Lytle and their research areas,"Nicholas Lytle specializes in Computer Science Education, Computational Thinking, and Intelligent Tutoring Systems. His research also encompasses Programming Education, Educational Technology, Human-Computer Interaction, Curriculum Design, Pedagogy, Data-Driven Education, and K-12 Education. His work primarily focuses on making computing education more effective and universally accessible through designing and evaluating pedagogical approaches and educational technologies.",SUCCESS
+Nimisha Roy,tell me about Nimisha Roy and their research areas,"Nimisha Roy is a Lecturer in the School of Computing Instruction (SCI) within the College of Computing at the Georgia Institute of Technology, and also an instructor in Georgia Tech's Online Master of Science in Analytics (OMSA) program.
+
+Her primary research areas include:
+*   **AI-Powered Computing Education**: focusing on the role of AI in computing education, generative AI, sustainable computing practices, and AI-powered pedagogical innovation to enhance teaching and learning experiences.
+*   **Scientific Computing**
+*   **Intelligent Geotechnics**
+*   **Civil Engineering**: encompassing Porous Media, Geotechnical Engineering, Soil Mechanics, and Computational Mechanics, with a strong emphasis on digital image processing and 3D characterization of particulate systems.
+*   **Computer Science Education**: incorporating Artificial Intelligence, Machine Learning, and Data Science to address real-world challenges such as infrastructure resilience, landslide susceptibility mapping, and disaster damage assessment.",SUCCESS
+Oliver Brdiczka,tell me about Oliver Brdiczka and their research areas,"Oliver Brdiczka's primary research focuses on designing and building AI systems that understand and respond to human behavior, leveraging data from various sensors and deployments. He specializes in:
+
+*   **Contextual AI**
+*   **Context-Aware Computing**
+*   **Machine Learning**
+*   **Intelligent User Interfaces**
+*   **Human-Computer Interaction**
+*   **Artificial Intelligence**
+*   **Behavioral Analytics**
+
+He has also made significant contributions to:
+
+*   **Information Security** (with a focus on cyber-security, insider threat)
+*   **Ubiquitous Computing**
+*   **Recommender Systems**
+*   **Natural Language Processing** (with a focus on text mining)
+*   **Social Network Analysis**",SUCCESS
+Paul Pearce,tell me about Paul Pearce and their research areas,"Paul Pearce specializes in a comprehensive range of research areas within computer security, including Cyber-Crime, Censorship, and Internet Measurement. His expertise extends to Cybersecurity, Network Security, Computer Forensics, and Malware Analysis. He also conducts significant research in Online Privacy, Network Censorship, Distributed Systems, Data Mining, and Network Protocols. More broadly, his research interests encompass Systems and Software Security, Threat Intelligence, and Security Analytics, reflecting a dedication to understanding and mitigating sophisticated online threats. His work spans critical areas such as cybercrime, censorship, and advanced persistent threats (APTs).",SUCCESS
+Pedro Guillermo Feijóo-García,tell me about Pedro Guillermo Feijóo-García and their research areas,"Pedro Guillermo Feijóo-García specializes in a diverse range of research areas, including Human-Centered Computing, Virtual Humans, Computer Science Education (CS Ed), and Human-Computer Interaction (HCI). His work extensively covers Educational Technology, focusing on programming education, data structures, and the application of Artificial Intelligence in Education. He also explores Virtual Reality and Mixed Reality, particularly in participatory design for neurodiverse users, and investigates critical social issues within computing education such as the impostor phenomenon and academic dishonesty.
+
+His primary research focuses on the intersection of CS Ed and human-centered AI, particularly how users perceive and interact with virtual humans to support student success and well-being in computing-related majors. He also investigates the role of hidden curricula in CS education and designs interactive interfaces to promote programming learning in both pre-college and higher education contexts.",SUCCESS
+Peng Chen,tell me about Peng Chen and their research areas,"Peng Chen is a tenure-track Assistant Professor in the School of Computational Science and Engineering at Georgia Institute of Technology. His research primarily focuses on developing fast, scalable, and parallel computational methods for integrating data and models under high-dimensional uncertainty.
+
+His research areas include:
+*   Computational mathematics
+*   Data science
+*   Scientific machine learning
+*   Uncertainty Quantification (UQ)
+*   Bayesian Inference
+*   Model Order Reduction (MOR)
+*   Stochastic optimization
+*   Bayesian Optimal Experimental Design (BOED)
+*   Numerical analysis of Partial Differential Equations (PDEs)
+*   High-Dimensional Approximation
+
+Dr. Chen innovates by developing methods such as reduced basis techniques, sparse grid approximations, and advanced neural surrogates like derivative-informed neural operators to enhance computational accuracy and efficiency for complex systems. His work is applied to challenges in materials science, energy, health, and natural hazard prediction.",SUCCESS
+Peter A. Freeman,tell me about Peter A. Freeman and their research areas,"Peter A. Freeman's primary research and professional focus areas include software engineering, science policy, and artificial intelligence.
+
+His work also deeply explores Requirements Engineering, Software Design, Software Reusability, Software Maintenance, Computer Science Education, Bioinformatics, and Systems Engineering. He has dedicated attention to the creation and analysis of software systems, methods for classifying software for reusability, validating requirements through viewpoint resolution, and modeling functional reasoning in design. Additionally, he researches the supply of information technology workers and the fundamental elements of software engineering education.
+
+Broader interests encompass university strategy and management, the future of the internet, and the history and future of computing.",SUCCESS
+Peter Swire,tell me about Peter Swire and their research areas,"Peter Swire's research areas include Privacy Law, Cybersecurity Law, and Data Protection Law, often with an international focus. His expertise also covers Internet Law, International Law, Law and Economics, and Regulatory Compliance.
+
+He has investigated topics such as:
+*   Data brokering
+*   Electronic surveillance
+*   Computer security
+*   Challenges of data nationalism
+*   Government access to data for law enforcement and national security
+*   Reconciliation of data protection with emerging AI technologies under EU law
+*   Implications of data portability.
+
+Additional research interests include Environmental Law, Antitrust Law, and Financial Regulation.",SUCCESS
+Qi Tang,tell me about Qi Tang and their research areas,"Qi Tang's research spans a wide array of fields at the intersection of applied mathematics, physics, and computing. His key areas of expertise include High Performance Computing, Applied Mathematics, Plasma Physics, and Scientific Machine Learning.
+
+He also conducts extensive work in:
+*   Computational Physics
+*   Numerical Analysis
+*   Scientific Computing
+*   Dynamical Systems
+*   Magnetohydrodynamics
+*   Fluid Dynamics
+
+Furthermore, his research encompasses fusion simulations, scalable numerical algorithms, multi-physics and multi-scale problems, and the development of AI/ML and data science solutions for scientific challenges. His primary research focuses on applying modern computational tools to advance physics applications, particularly in fusion energy and plasma physics.",SUCCESS
+Qirun Zhang,tell me about Qirun Zhang and their research areas,"Dr. Qirun Zhang is an Assistant Professor in the School of Computer Science at the Georgia Institute of Technology, where his primary research focuses on programming languages and software engineering to enhance software reliability and security.
+
+His research areas include:
+*   Program Analysis
+*   Compiler Verification and Testing
+*   Static Analysis
+*   Software Testing and Debugging
+*   Type Inference
+*   Program Debloating
+*   Algorithm Design and Analysis
+*   Dataflow Analysis
+*   Pointer Analysis
+*   Formal Methods
+
+He examines challenges in program analysis and compiler optimization using perspectives from computational complexity, analytic combinatorics, graph theory, and formal languages.",SUCCESS
+Raphael Pestourie,tell me about Raphael Pestourie and their research areas,"Raphael Pestourie is an Assistant Professor in Scientific Machine Learning at the School of Computational Science and Engineering, Georgia Tech, since 2023. His primary research focuses on extending accurate models for the optimization of engineering solutions by developing fast approximate Partial Differential Equation (PDE) models and innovative scientific machine learning techniques.
+
+His research areas include:
+*   Scientific Machine Learning
+*   Large-scale Optimization
+*   Numerical Methods for PDEs
+*   Inverse Design in various optical fields, such as Optical Metasurfaces, Nanophotonics, and Meta-optics
+*   Computational Imaging
+*   Topology Optimization
+*   Physics-Informed Neural Networks
+*   Creating hybrid models that combine theoretical understanding with data-driven insights
+*   End-to-end optimization for electromagnetic design",SUCCESS
+Rebecca E. Grinter,tell me about Rebecca E. Grinter and their research areas,"Rebecca E. Grinter is a Professor of Interactive Computing and Associate Dean for Faculty Development in the College of Computing at the Georgia Institute of Technology. Her primary research focuses on enhancing the computing experience by deeply understanding human interaction in the design, development, and use of various technologies. She employs empirical and qualitative methods to bridge the gap between human needs and technological capabilities.
+
+Her research areas include:
+*   Human-Computer Interaction (HCI)
+*   Computer Supported Cooperative Work (CSCW)
+*   Ubiquitous Computing
+*   Information Visualization
+*   Human-Robot Interaction
+*   Domestic Technology
+*   Mobile Computing
+*   Software Engineering
+*   Security and Privacy
+*   Social Computing
+
+She also investigates critical aspects of global software development, examining the impact of geographical distance on coordination and efficiency, and understanding how people manage security in their daily lives, including the societal implications of technology adoption among diverse user groups.",SUCCESS
+Richard DeMillo,tell me about Richard DeMillo and their research areas,"Richard DeMillo's research areas encompass a diverse range of topics within computing and its societal impact. His primary focus is on the intersection of fundamental problems in digital technology and their public implications.
+
+His key research areas include:
+*   **Cybersecurity**: This involves computer security, cryptographic protocols, and election and voting system security, where his expertise has been cited in legal cases.
+*   **Software Engineering**: He specializes in software testing, program analysis and debugging, and formal methods and program verification. He co-developed program mutation for software testing.
+*   **Mathematics**: His work delves into the theoretical foundations of computer science and applied mathematics.
+*   **Higher Education Reform**: He explores educational technology and reform, having authored influential books on the subject and founded Georgia Tech's Center for 21st Century Universities.",SUCCESS
+Richard Fujimoto,tell me about Richard Fujimoto and their research areas,"Richard Fujimoto is a Regents' Professor, Emeritus, in the School of Computational Science and Engineering at the Georgia Institute of Technology. He is a pioneer in the parallel and distributed discrete event simulation field.
+
+His primary research focuses on:
+*   Developing fundamental understandings of synchronization algorithms.
+*   Creating advanced computational techniques to accelerate discrete event simulations on high-performance computing (HPC) platforms.
+
+His expertise spans:
+*   **Modeling and Simulation:** including parallel and distributed simulation, discrete event simulation, Time Warp Simulation, and High-Level Architecture (HLA).
+*   **Parallel and Distributed Computing:** including network simulation, vehicular networks, and performance modeling and analysis.
+*   **Other areas:** reverse computation, distributed computing, big data, cloud computing, optimization algorithms, and computer architecture.",SUCCESS
+Richard Henneman,tell me about Richard Henneman and their research areas,"Richard Henneman's research areas include Human-Computer Interaction (HCI), user research, usability engineering, and the design and evaluation of complex systems. He also specializes in human factors engineering, cognitive psychology, system design (with expertise in user interface design), human performance modeling (especially for large-scale systems and fault diagnosis), and design pedagogy within the HCI curriculum.",SUCCESS
+Richard Vuduc,tell me about Richard Vuduc and their research areas,"Richard Vuduc is a Professor in the School of Computational Science and Engineering at Georgia Institute of Technology, where he leads The HPC Garage research lab. His research primarily focuses on high-performance computing (HPC), also known as supercomputing.
+
+His work emphasizes:
+*   Designing communication-efficient algorithms
+*   Crafting exceptionally fast code
+*   Applications in scientific computing and statistical data analysis on high-end computing platforms
+
+Dr. Vuduc's research areas include:
+*   Parallel algorithms
+*   Programming models
+*   Performance analysis
+*   Automated tuning (autotuning)
+*   Sparse matrix computations
+*   Computer architecture
+*   Numerical linear algebra
+*   GPGPU computing
+*   Performance portability
+*   Tensor computations
+*   Identifying and addressing performance bottlenecks in complex computational systems.",SUCCESS
+Rodrigo Borela,tell me about Rodrigo Borela and their research areas,"Rodrigo Borela is a Lecturer at the Georgia Institute of Technology, affiliated with the School of Computing Instruction and the Online Master of Science in Computer Science (OMSCS) within the College of Computing. His research areas are interdisciplinary, bridging the physical mechanics of granular materials with advanced computational and educational methodologies.
+
+His research specializations include:
+*   **Bio-inspired Robotics**: focuses on systems that mimic biological locomotion and interactions with soil, particularly for geotechnical engineering applications like in-situ soil testing.
+*   **Computational Mechanics** and **Granular Media Physics**: investigates the microstructure and behavior of soils, including the micromechanics of granular materials, analysis of pore size distribution, and the behavior of inclusions such as geogrids.
+*   **Computer Science Education** and **Artificial Intelligence in Education**: explores innovative teaching methods, equitable grading practices, the integration of AI tools in high-enrollment computing courses, and the use of robotics projects for experiential learning.",SUCCESS
+Rosa I. Arriaga,tell me about Rosa I. Arriaga and their research areas,"Dr. Rosa I. Arriaga is an Associate Professor in the School of Interactive Computing at the Georgia Institute of Technology. Her primary research focuses on Human-Computer Interaction (HCI) and Social Computing, where she applies psychological concepts to address health and wellness issues.
+
+Her research areas include:
+*   Human-Computer Interaction (HCI)
+*   mHealth (Mobile Health)
+*   Social Computing
+*   Assistive Technology, particularly for Autism Spectrum Disorder Research
+*   Machine Learning/Artificial Intelligence
+*   Educational Technology
+*   Cognitive Science
+*   Developmental Psychology
+*   Child Development
+
+Key themes in her work involve developing ecological computing systems for mental health interventions, chronic care management (such as diabetes and asthma), and wellness practices like meditation. She specializes in designing mHealth systems to enhance patient engagement, continuity of care, and communication between patients and healthcare providers, especially for chronic conditions and mental health.",SUCCESS
+Russell Clark,tell me about Russell Clark and their research areas,"Russell Clark is a Senior Research Scientist at the Georgia Institute of Technology, with a joint appointment in the School of Computer Science and the Institute for People and Technology (IPaT). He also serves as the Interim Director of Sustainability for IPaT.
+
+His primary research areas include mobile development, networking, and the Internet of Things, with an emphasis on innovation, entrepreneurship, and industry involvement. His expertise extends to advanced topics such as Software-Defined Networking (SDN), Network Security, Internet Exchange Points (IXPs), Mobile Applications, Robotics, Multicast Networking, Peer-to-Peer Systems, Network Protocol Design, Distributed Systems, and Data Science.
+
+Recently, his work has expanded to include significant contributions to resiliency and sustainability initiatives, particularly concerning coastal communities and climate change adaptation, such as developing transportation resilience and building resilience in vulnerable coastal communities. His practical applications research includes on-line performance enhancement for reactive robotic systems and secure network solutions for issues like ARP and rogue access point vulnerabilities.",SUCCESS
+Ryan Shandler,tell me about Ryan Shandler and their research areas,"Ryan Shandler is an Assistant Professor of Political Science at the Georgia Tech School of Cybersecurity & Privacy, with a joint appointment in the Sam Nunn School of International Affairs. His primary research focuses on the human dimension of cybersecurity, investigating how cyber threats and emerging technologies influence political behaviors and attitudes. He emphasizes that the most significant threat from cyberattacks lies in societal risks such as reduced public trust in government and psychological distress, rather than purely physical destruction.
+
+Dr. Shandler's research areas include:
+*   Cyber Conflict
+*   Political Psychology
+*   Public Opinion (with an emphasis on Experimental Methods)
+*   Cyber Conflict Studies
+*   Political Psychology of Terrorism
+*   Public Opinion and Cybersecurity
+*   International Security Studies
+*   Cybersecurity Policy
+*   Cyberwarfare Theory
+*   Human Rights Law (specifically concerning digital rights)
+*   Social, psychological, and legal ramifications of internet deprivation
+*   Political effects of public exposure to cyber threats",SUCCESS
+Sahil Singla,tell me about Sahil Singla and their research areas,"Dr. Sahil Singla's primary research revolves around Algorithms and Uncertainty, focusing on designing optimal algorithms for inputs where information is incomplete or stochastic. His specialization encompasses a broad spectrum of theoretical computer science, including Online Algorithms and Economics and Computation.
+
+His research deeply delves into:
+*   Stochastic Optimization
+*   Multi-Armed Bandits
+*   Combinatorial Optimization
+*   Mechanism Design
+*   Prophet Inequalities
+*   Matroid Theory
+*   Discrepancy Theory
+*   Game Theory
+*   Machine Learning
+*   Approximation Algorithms
+
+A significant portion of his current work focuses on online resource allocation and developing algorithms robust to unpredictable inputs.",SUCCESS
+Saman Zonouz,tell me about Saman Zonouz and their research areas,"Saman Zonouz is an Associate Professor at Georgia Tech, with joint appointments in the Schools of Cybersecurity and Privacy (SCP) and Electrical and Computer Engineering (ECE). He is also the Director of the Cyber-Physical Security Laboratory (CPSec) and the Cyber-Physical Systems Track for Georgia Tech's Online Masters of Cybersecurity program.
+
+His primary research focuses on addressing security and privacy challenges in cyber-physical systems (CPS), particularly in critical infrastructures, by developing advanced attack detection and response capabilities. His work integrates techniques from systems security, control theory, and artificial intelligence to design and validate trustworthy and resilient cyber-physical systems.
+
+Dr. Zonouz specializes in a broad range of research areas centered on cyber-physical systems security, including:
+*   Industrial Control Systems (ICS) Security
+*   Power Grid and Smart Grid Security
+*   Embedded Systems Security
+*   Intrusion Detection Systems
+*   Biometric Security
+*   Cloud Security
+*   Network Security
+*   Robotics Security
+*   Cyber-physical intrusion tolerance and formal verification
+*   Malware analysis and reverse engineering of embedded system software",SUCCESS
+Santosh Pande,tell me about Santosh Pande and their research areas,"Santosh Pande is a Professor of Computer Science at the Georgia Institute of Technology. His primary research investigates static and dynamic compiler optimizations on evolving architectures, combined with in-depth program analysis to improve software performance, security, and power efficiency.
+
+His research areas include:
+*   Compilers
+*   Compiler Design
+*   Computer Architecture
+*   Program Analysis
+*   Software Security, focusing on vulnerability mitigation and application security strength metrics
+*   Parallel Computing
+*   Embedded Systems
+*   Performance Optimization
+*   Systems Software
+*   Distributed Systems
+*   Machine Learning Applications in Systems, particularly for optimizing performance in modern high-performance applications through compiler-OS interactions.",SUCCESS
+Santosh S. Vempala,tell me about Santosh S. Vempala and their research areas,"Santosh S. Vempala's research areas primarily focus on the foundations of Theoretical Computer Science, with a particular emphasis on algorithms, randomness, high-dimensional geometry, and the computational theory of the brain.
+
+His broad expertise covers:
+*   **Algorithms:** Including randomized algorithms.
+*   **Randomness.**
+*   **High-dimensional Geometry.**
+*   **Optimization.**
+*   **Foundations of Data Science.**
+*   **Machine Learning.**
+*   **Statistical Inference.**
+*   **Computational Complexity.**
+*   **Probabilistic Methods.**
+*   **Numerical Linear Algebra.**
+*   **Computational Learning Theory.**
+*   **Computer Vision.**
+
+Additionally, he has an interest in the computational aspects of the brain and co-founded the Computing for Good (C4G) program at Georgia Tech.",SUCCESS
+Sashank Varma,tell me about Sashank Varma and their research areas,"Dr. Sashank Varma is a Professor in both the School of Interactive Computing and the School of Psychology at Georgia Tech.
+
+His research areas include:
+*   Cognitive Science
+*   Cognitive Psychology
+*   Cognitive Architecture
+*   Mathematical Cognition
+*   Computational Thinking
+*   Educational Neuroscience
+*   Computational Neuroscience
+*   Learning Sciences
+*   Language understanding
+*   Continual learning in both humans and machines
+*   Problem-solving strategies
+*   Artificial Intelligence
+*   Machine Learning
+
+He is particularly interested in human intuitions about abstract mathematical concepts like geometry and topology, as well as human approaches to solving computationally challenging problems. His work also investigates the cognitive alignment between human intelligence and machine learning models, including how large language models (LLMs) process and understand mathematics, language, and concepts. His primary research methodology involves computational modeling and behavioral experiments to understand complex human cognition.",SUCCESS
+Sehoon Ha,tell me about Sehoon Ha and their research areas,"Sehoon Ha's primary research is at the intersection of computer graphics, robotics, and artificial intelligence, with a focus on creating intelligent and adaptable robotic systems. His work covers physics-based animation, deep reinforcement learning, and computational robot design.
+
+His specialized research areas include:
+*   Robotics
+*   Machine Learning
+*   Computer Graphics
+*   Deep Reinforcement Learning
+*   Computer Vision
+*   Motion Planning
+*   Control Systems
+*   Human-Robot Interaction
+*   Embodied AI
+*   Simulated Environments
+
+A significant part of his research involves learning agile and robust locomotion skills for legged robots, as well as the computational design and optimization of robotic systems. More recently, his work has expanded into mobile manipulation, language-guided skill discovery, and vision-language frontier maps for zero-shot semantic navigation.",SUCCESS
+Shamkant B Navathe,tell me about Shamkant B Navathe and their research areas,"Shamkant B. Navathe is a Professor Emeritus in the College of Computing at the Georgia Institute of Technology. He founded the Research Group in Database Systems at Georgia Tech.
+
+His research areas include:
+*   Database systems
+*   Data mining
+*   Schema integration
+*   Database design
+*   Data modeling
+*   Information systems security
+*   Temporal databases
+*   Distributed databases
+*   Query processing
+*   Information retrieval
+*   Bioinformatics (particularly human mitochondrial genome databases)
+*   Web and electronic commerce applications of databases
+*   Business intelligence
+*   Knowledge representation
+*   Tools and methodologies for information system design
+*   Visualization and user interfaces for enhanced information retrieval
+*   Object-oriented and heterogeneous data management.
+
+He applies these areas to emerging applications such as engineering design, biological databases, document and text databases, and collaborative environments.",SUCCESS
+Shaowen Bardzell,tell me about Shaowen Bardzell and their research areas,"Dr. Shaowen Bardzell specializes in Feminist Human-Computer Interaction (HCI), Humanistic Computing, and Critical Theory as applied to design. Her work also engages with Sustainability, Women's Health (including menstruation, sexuality, and menopause), Design Research, and the broader field of Human-Computer Interaction. Additionally, she focuses on the Sociology of Technology, Gender Studies, Media Studies, and utilizes extensive Qualitative Research Methods like ethnography and interviewing.
+
+Her recent research topics include care ethics, feminist utopian perspectives on IT, posthumanist approaches to sustainable design, and computational agriculture.",SUCCESS
+Simon Pak Ho Chung,tell me about Simon Pak Ho Chung and their research areas,"Simon Pak Ho Chung is a Research Scientist at the Georgia Institute of Technology, affiliated with the Institute for Data Engineering and Science and the School of Cybersecurity and Privacy. His research is focused on identifying and mitigating vulnerabilities across various computing platforms to protect user data and system integrity.
+
+His research areas include:
+*   Computer Security
+*   Mobile Security
+*   Privacy Engineering
+*   Software Security
+*   Systems Security
+*   Network Security
+*   Applied Cryptography
+*   Intrusion Detection and Prevention
+*   Software Engineering
+*   Malware Analysis
+
+A significant portion of his work also involves investigating the exploitation of accessibility features and fingerprint APIs in Android, developing robust control-flow integrity mechanisms, and implementing software debloating strategies to reduce attack surfaces.",SUCCESS
+Sonia Chernova,tell me about Sonia Chernova and their research areas,"Sonia Chernova is an Associate Professor in the School of Interactive Computing at the Georgia Institute of Technology. She directs the Robot Autonomy and Interactive Learning (RAIL) lab, focusing on intelligent and interactive autonomous systems for human environments. She also leads the NSF AI Institute for Collaborative Assistance and Responsive Interaction for Networked Groups (AI-CARING), dedicated to developing personalized collaborative AI systems to improve the quality of life and independence of aging adults.
+
+Her research areas are at the intersection of robotics and artificial intelligence and include:
+*   Robot Learning from Demonstration (LfD)
+*   Human-Robot Interaction (HRI)
+*   Explainable AI (XAI)
+*   Reinforcement Learning
+*   Embodied AI
+*   Motion Planning
+*   Computer Vision
+*   Semantic reasoning
+*   Adaptive autonomy
+*   Sim2real transfer
+*   Cloud robotics",SUCCESS
+Spencer H. Bryngelson,tell me about Spencer H. Bryngelson and their research areas,"Spencer H. Bryngelson is an Assistant Professor in the School of Computational Science & Engineering at the Georgia Institute of Technology, with courtesy appointments in the Daniel Guggenheim School of Aerospace Engineering and the George W. Woodruff School of Mechanical Engineering. He leads the Computational Physics Group at Georgia Tech.
+
+His core research focuses on developing advanced computational models and numerical methods for complex problems in fluid dynamics and solid mechanics. He emphasizes the efficient utilization of cutting-edge high-performance computing (HPC) architectures, including GPUs, Arm CPUs, and emerging quantum computing paradigms, to push the boundaries of scientific simulation.
+
+Dr. Bryngelson's research areas include:
+*   Computational Fluid Dynamics
+*   Scientific Computing
+*   Numerical Methods for PDEs
+*   Multiphase Flow
+*   Bubble Dynamics
+*   Fluid-Structure Interaction
+*   High-Performance Computing, including scalable open-source software and applications on quantum computers
+*   Artificial Intelligence in Scientific Computing
+*   Soft Matter Physics
+*   Turbulence Modeling",SUCCESS
+Srijan Kumar,tell me about Srijan Kumar and their research areas,"Srijan Kumar is an Assistant Professor in the School of Computational Science and Engineering (CSE) at the Georgia Institute of Technology.
+
+His research areas include:
+*   Artificial Intelligence (AI)
+*   Machine Learning
+*   Data Mining
+*   Network Science
+*   Social Network Analysis
+*   Natural Language Processing (NLP)
+*   Information Retrieval
+*   Computer Vision
+*   Human-Computer Interaction
+*   Cybersecurity
+*   Artificial Intelligence Safety, particularly in combating misinformation and malicious online behavior
+*   Recommender Systems
+*   Development of graph, content (NLP, multimodal), and adversarial learning methods.
+
+His primary research expertise focuses on developing AI, applied machine learning, and data mining methods to identify, predict, and attribute online harms, aiming to create a trustworthy online ecosystem.",SUCCESS
+Srinivas Aluru,tell me about Srinivas Aluru and their research areas,"Srinivas Aluru is a Regents' Professor and Senior Associate Dean in the College of Computing at the Georgia Institute of Technology. His primary research focuses on the intersection of high-performance computing and computational biology, with an emphasis on data science and bioinformatics.
+
+His research areas include:
+*   High-performance computing
+*   Data science
+*   Bioinformatics
+*   Systems biology
+*   Computational genomics
+*   Combinatorial scientific computing
+*   Algorithm design and analysis
+*   Machine learning
+*   Evolutionary biology
+*   Plant biology
+*   Data mining
+
+Currently, his group is developing bioinformatics methods for next-generation sequencing data analysis, including error correction and genome assembly, as well as constructing and aligning to genome graphs, and network methods for single-cell biology.",SUCCESS
+Stephen Mussmann,tell me about Stephen Mussmann and their research areas,"Stephen Mussmann's primary research focuses on the data-centric aspects of machine learning (ML) systems. His work aims to improve the reliability and usability of ML by developing methods for data collection, selection, and evaluation. He specializes in active learning, experiment design for efficient data collection, data curation, dataset benchmarking, and model evaluation. His research also covers statistical aspects of data algorithms, including noise and domain shifts, and involves probabilistic graphical models and latent variable models.",SUCCESS
+Suguman Bansal,tell me about Suguman Bansal and their research areas,"Suguman Bansal is an Assistant Professor of Computer Science at Georgia Tech. Her primary research areas include formal methods and their applications to artificial intelligence, programming languages, and machine learning.
+
+Her specific research interests encompass:
+*   Reinforcement learning
+*   Reactive synthesis
+*   Temporal logic
+*   Game theory
+*   Automated verification
+*   Multi-agent systems
+*   Program synthesis
+*   Automata theory
+
+A significant part of her work is dedicated to providing formal guarantees for learning-enabled systems, with a focus on challenges in Reinforcement Learning, and the formal reasoning of quantitative properties.",SUCCESS
+Surya R. Kalidindi,tell me about Surya R. Kalidindi and their research areas,"Surya R. Kalidindi's research areas encompass Manufacturing Generative AI, Digital Twins for Manufacturing, and Materials Informatics. His work extensively explores Computational Materials Science, focusing on the mechanics of materials, including crystal plasticity, deformation twinning, and strain hardening in various metals. He also applies Data Science and Machine Learning methodologies to understand complex process-structure-property linkages in materials, particularly for additive manufacturing and high-contrast composites.",SUCCESS
+Taesoo Kim,tell me about Taesoo Kim and their research areas,"Taesoo Kim's primary research focuses on building principled and secure computing systems, developing advanced tools for intrusion detection, and enabling effective system recovery from cyberattacks without extensive manual intervention.
+
+His specialized research areas include:
+*   Systems Security
+*   Operating Systems
+*   Trusted Execution Environments
+*   Programming Languages
+*   Distributed Systems
+*   Fuzzing
+*   Memory Safety
+*   File Systems
+*   Computer Architecture
+*   Program Analysis
+*   Cloud Security
+*   Intrusion Detection and Prevention",SUCCESS
+Tamara Pearson,tell me about Tamara Pearson and their research areas,"Dr. Tamara Pearson specializes in a comprehensive range of research areas, including Intersectionality, Black women and girls in computer science and STEM education, Computer Science Education Research, Intersectionality Studies, and Black Feminist Studies. Her expertise also encompasses STEM Education Equity, Digital Divide Research, Educational Technology Integration, Race and Gender in Education, Computing Identity Formation, and Social Justice in Technology. She actively investigates how systemic issues, such as the legacy of racial segregation, impact equitable computing education, and she is committed to elevating the voices of scholars from marginalized communities.",SUCCESS
+Teodora Baluta,tell me about Teodora Baluta and their research areas,"Teodora Baluta's primary research focuses on rigorous security analyses for machine learning (ML) systems. She investigates algorithms and datasets used to train new AI tools to assess their security, particularly regarding whether generative AI outputs misuse data or are based on stolen information.
+
+Her key research areas include:
+*   Security and Privacy
+*   Machine Learning Security
+*   Formal Verification of Machine Learning Systems (with a focus on quantitative verification for neural networks)
+*   Privacy-Preserving Machine Learning (including applications to graph networks and federated clustering)
+*   Adversarial Machine Learning
+*   Program Synthesis
+*   Causal Inference in AI (for understanding model behavior and improving SAT solving)
+*   Machine Unlearning (in large language models)
+*   Model Provenance Testing (for large language models)
+*   Explainable AI (XAI)
+*   Cybersecurity Analytics
+*   Software Engineering",SUCCESS
+Thad Starner,tell me about Thad Starner and their research areas,"Dr. Thad Starner's research areas primarily focus on Wearable Computing and Artificial Intelligence. His expertise also includes Augmented Reality, Human Computer Interaction (HCI), Computer Vision, Ubiquitous Computing, and Machine Learning. Additionally, his work extends to Sensor Networks, Mobile Computing, Information Retrieval, Animal Computer Interaction (developing wearable devices for communication with working dogs and wild dolphins), and assistive technologies for the Deaf community and individuals with ALS (focusing on sign language recognition and brain-computer interfaces).",SUCCESS
+Thomas Ploetz,tell me about Thomas Ploetz and their research areas,"Thomas Ploetz specializes in Computational Behavior Analysis, Activity Recognition, and Ubiquitous Computing. His expertise includes Machine Learning, particularly in Human Activity Recognition (HAR) using wearable devices and Biomedical Signal Processing.
+
+He also focuses on Health Monitoring and Health Analytics, utilizing sensor data analysis to assess physical activity and identify health compromises. His research areas further extend to Skill Assessment, Animal Behavior Analysis, Context Awareness, Assistive Technology, and Sequential Data Analysis.",SUCCESS
+Tom Conte,tell me about Tom Conte and their research areas,"Tom Conte, also known as Thomas Martin Conte, is the Associate Dean for Research in the College of Computing and a Professor in both the Schools of Computer Science and Electrical & Computer Engineering at Georgia Tech. He was the founding director of Georgia Tech's Center for Research into Novel Computing Hierarchies (CRNCH) and served as the 2015 President of the IEEE Computer Society, co-founding the IEEE Rebooting Computing Initiative. He is an IEEE Fellow.
+
+His research areas include:
+*   Computer Architecture
+*   Compilers
+*   Computer Performance Evaluation
+*   Compilers and Optimization (focusing on instruction-level parallelism and back-end compiler code generation)
+*   Performance Analysis and Modeling
+*   Microarchitecture Design
+*   Parallel Processing and Multicore Systems
+*   Embedded Systems Design
+*   Hardware-Software Co-design
+*   Computer Simulation and Benchmarking
+*   Reconfigurable Computing
+
+His work emphasizes novel computing paradigms beyond traditional silicon-based approaches and exploring post-Moore era architectures, with a strong focus on designing systems for future high-performance and energy-efficient computing.",SUCCESS
+Umakishore Ramachandran,tell me about Umakishore Ramachandran and their research areas,"Umakishore Ramachandran is a Professor in the School of Computer Science at the Georgia Institute of Technology. His primary research centers on the architectural design, programming, and analysis of parallel and distributed systems.
+
+His research areas include:
+*   Embedded and pervasive systems
+*   Parallel and distributed systems
+*   Computer architecture
+*   Operating systems
+*   Fog Computing
+*   Internet of Things (IoT)
+*   Middleware
+*   Data Fusion
+*   Embedded Systems
+
+He also focuses on developing geo-distributed, large-scale, and latency-sensitive applications for the IoT, and contributes to distributed operating systems and distributed shared memory. His current projects involve achieving large-scale situation awareness using distributed camera networks and multi-modal sensing for applications like surveillance and connected vehicles, and exploring Edge Computing solutions to provide smart services to underserved urban communities.",SUCCESS
+Vassilis Zikas,tell me about Vassilis Zikas and their research areas,"Vassilis Zikas specializes in a diverse array of interconnected research areas. His primary research focuses on foundational aspects of Cryptography, Cryptocurrencies, Blockchain Technologies, Game Theory (particularly its application in cryptographic protocols and rational protocol design), Computer Security, and Distributed Computing, including Distributed Systems and Byzantine Fault Tolerance. He also has extensive experience in Secure Multi-Party Computation (MPC), addressing challenges like fairness, robustness, and identifiable abort in adversarial settings. His current work explores differential privacy estimators and blockchain security against adversaries with temporary majority control.",SUCCESS
+Victor Fung,tell me about Victor Fung and their research areas,"Victor Fung is an Assistant Professor in the School of Computational Science and Engineering at Georgia Institute of Technology. He leads the Fung Group, mentoring PhD and undergraduate students. He earned his B.A. in Chemistry from Cornell University and his Ph.D. in Physical Chemistry from the University of California, Riverside. Prior to joining Georgia Tech in Fall 2022, he was a Wigner Fellow and a member of the Nanomaterials Theory Institute at Oak Ridge National Laboratory. His academic and professional background reflects a strong commitment to interdisciplinary research at the intersection of chemistry, physics, and computational sciences, with a consistent focus on data-driven approaches to materials innovation.
+
+Dr. Fung's primary research focuses on the intersection of scientific artificial intelligence, computing, and materials science/chemistry. He aims to accelerate the chemical discovery process, ultimately realizing materials by inverse design through novel computational and data-driven methods. He also works on establishing automated, data-driven ecosystems for materials and chemical discovery, deployable on high-performance supercomputers.
+
+His research areas include:
+*   Materials Discovery
+*   Materials Informatics
+*   Computational Materials Science
+*   Heterogeneous Catalysis
+*   Nanomaterials Synthesis and Characterization
+*   Surface Science
+*   Electrocatalysis
+*   Oxide Chemistry
+*   Density Functional Theory
+*   Machine Learning for Materials
+*   Inorganic Synthesis
+
+Notable works and contributions from his research include:
+*   Significant advancements in electrocatalysis, such as developing facile colloidal methods for preparing bimetallic nanoparticles (e.g., platinum-gold systems) with tailored surface structures, leading to highly efficient electrocatalysts.
+*   Contributions to machine learning in materials chemistry, including benchmarking graph neural networks for diverse applications ranging from crystal stability to surface chemistry and heterogeneous catalysis, which helps standardize model evaluation.
+*   Addressing the challenge of low-temperature methane activation, notably reporting a method using H2-reduced phosphomolybdate that achieves almost exclusive conversion of methane and O2 to methanol at room temperature.
+*   Developing an inverse design framework (MatDesINNe) utilizing invertible neural networks for materials design, applied to band gap engineering in two-dimensional materials.
+*   Insights into the structure-reactivity relationship for oxygen on transition-metal oxides using the adjusted coordination number (ACN) as a structural descriptor.
+*   Research on single-atom catalysts (SACs), including stabilizing gold single atoms on LaFeO3 perovskite and exploring descriptors for hydrogen evolution on SACs in nitrogen-doped graphene.
+*   Studies on the dynamic intracluster diffusion of single gold atoms into silver nanoclusters and the control of single-ligand chemistry on thiolated Au25 nanoclusters.",SUCCESS
+Vijay Ganesh,tell me about Vijay Ganesh and their research areas,"Vijay Ganesh is a Professor of Computer Science at Georgia Tech, where he joined in 2023. He also serves as the Associate Director of the IDEaS Institute and is affiliated with Tech AI.
+
+His primary research focuses on the theory and practice of SAT/SMT (Satisfiability Modulo Theories) solvers and their applications in artificial intelligence, software engineering, security, mathematics, and physics. Dr. Ganesh's work also explores the intersection of learning and reasoning, utilizing machine learning to enhance solver efficiency and leveraging solvers to improve the trustworthiness, security, and robustness of AI systems. He is a co-founder and steering committee member of the Center for Mathematical AI at the Fields Institute.
+
+His key research areas include:
+*   SAT/SMT Solvers
+*   Automated Theorem Proving
+*   Formal Methods
+*   Software Engineering (with an emphasis on software reliability and security)
+*   Artificial Intelligence
+*   Mathematical Logic
+*   Constraint Satisfaction
+*   Programming Languages (investigating fundamental decidability and complexity results in first-order theories)
+*   Machine Learning
+*   Cryptography (exploring neurosymbolic AI for scientific discovery, mathematics, and code, and integrating machine learning to optimize solver performance)
+*   Quantum foundations
+
+Dr. Ganesh has developed influential SAT/SMT solvers such as STP, Z3str4, AlphaZ3, MapleSAT, and MathCheck, which have advanced automated program analysis and bug finding. He pioneered the integration of machine learning into SMT solvers, exemplified by the Z3-alpha solver, and made significant advancements in string constraint solving with tools like Z3-str. He has received over 30 awards, honors, and medals for his contributions to automated reasoning and computer science, including an ACM Impact Paper Award at ISSTA 2019, an ACM Test of Time Award at CCS 2016, and a Ten-Year Most Influential Paper citation at DATE 2008.",SUCCESS
+Vijay Madisetti,tell me about Vijay Madisetti and their research areas,"Vijay Madisetti's research areas encompass a wide range of topics, with a strong emphasis on Wireless Communications, Computer Systems, and Software Engineering. His expertise also includes Electronics, Information Systems, and Digital Signal Processing (DSP).
+
+He explores emerging technologies such as Blockchain Technology, the Internet of Things (IoT), and Cloud Computing, focusing on their applications and underlying system designs. Additionally, his research covers Embedded Systems, Computer Networking, Data Science and Analytics, and fundamental Cybersecurity principles.
+
+As a Professor of Cybersecurity & Privacy at Georgia Tech, his primary research endeavors specifically focus on advancing cybersecurity, blockchain technology, and the Internet of Things (IoT), alongside foundational work in computer systems and signal processing.",SUCCESS
+Vivek Sarkar,tell me about Vivek Sarkar and their research areas,"Vivek Sarkar specializes in a comprehensive array of research areas crucial for advanced computing. His expertise encompasses Parallel Computing, including parallel programming models, parallelizing compilers, and parallel runtime systems, along with Programming Languages and Compilers. He also conducts significant work in Program Analysis and the design of Runtime Systems, particularly for high-performance and extreme-scale platforms. His research interests also extend to Computer Architecture, Operating Systems, Distributed Systems, Software Engineering, and Artificial Intelligence, often with an emphasis on making future high-performance computers easier to program and more efficient. He leads the Habanero Extreme Scale Software Research Laboratory at Georgia Tech, focusing on programmability and performance for high-performance computing.",SUCCESS
+Vladimir Kolesnikov,tell me about Vladimir Kolesnikov and their research areas,"Vladimir Kolesnikov's research primarily focuses on the practical and foundational aspects of secure computation, particularly two-party computation, and achieving cryptographic and privacy goals using technologies like blockchain.
+
+His main research areas include:
+*   **Cryptography and Security**: With a strong emphasis on secure computation.
+*   **Secure Multi-Party Computation**: Including zero-knowledge proofs and garbled circuits.
+*   **Applied Cryptography**: Covering private set intersection, oblivious transfer, and database privacy.
+*   **Information Security Architecture**.
+*   **Cyber-Physical Systems Security**: Involving the design and analysis of secure systems such as smart grid networks and wireless authentication.
+
+He actively investigates improving and utilizing techniques such as garbled circuits, homomorphic encryption, and various related cryptographic methods.",SUCCESS
+W. Keith Edwards,tell me about W. Keith Edwards and their research areas,"Dr. W. Keith Edwards is a Professor in the School of Interactive Computing at the Georgia Institute of Technology and leads the Pixi Lab. His research focuses on integrating human-centered considerations into computing infrastructure.
+
+His key research areas include:
+*   **Human-Computer Interaction (HCI)** and related systems and networking technologies.
+*   **Ubiquitous Computing**.
+*   **Collaborative Systems** and Computer Supported Cooperative Work (CSCW).
+*   **Interaction Design**.
+*   Human-centered perspectives on computer networking, especially in domestic environments.
+*   More usable approaches to information security systems.
+*   Social impacts of computing technology, including accessibility.
+*   Designing systems to support non-profit organizations and NGOs, with a recent focus on community building and civic engagement.",SUCCESS
+"Wei ""Coco"" Xu","tell me about Wei ""Coco"" Xu and their research areas","Wei ""Coco"" Xu's research primarily focuses on Natural Language Processing (NLP), Machine Learning, and Social Media analysis.
+
+Her expertise covers a broad spectrum, including Text Simplification, Paraphrasing, Named Entity Recognition, Semantic Similarity, Information Extraction, Multilingual NLP, and Language Style Analysis.
+
+Recent work also investigates cultural bias and privacy risks within large language models, text generation, stylistics, and enhancing the robustness and controllability of machine learning models, particularly for reading and writing assistive technologies.",SUCCESS
+Wenke Lee,tell me about Wenke Lee and their research areas,"Dr. Wenke Lee's research expertise covers a wide range of critical cybersecurity domains. His primary focus is on systems and network security, where he utilizes applied cryptography and machine learning to tackle contemporary cyber threats.
+
+His research areas include:
+*   Computer Security
+*   Network Security
+*   Applied Cryptography
+*   Machine Learning for Security, including data mining techniques for advanced Intrusion Detection Systems and Anomaly Detection
+*   Malware Analysis
+*   Botnet Detection
+*   Virtualization Security
+*   Software debloating
+*   Virtual machine monitoring
+*   Mobile phone security
+*   Privacy-preserving biometric authentication
+*   Detection and mitigation of information manipulation on the Internet
+*   Creation and detection of deepfakes
+*   Adversarial machine learning",SUCCESS
+Will Perkins,tell me about Will Perkins and their research areas,"Will Perkins' primary research focuses on the intersection of algorithms, probability, combinatorics, and statistical physics. He particularly explores the algorithmic tractability of random instances of computational problems and efficient sampling from statistical physics spin models.
+
+His specialized research areas include:
+*   Statistical Physics
+*   Theoretical Computer Science
+*   Combinatorics
+*   Machine Learning
+*   Probability Theory
+*   Discrete Mathematics
+*   Graph Theory
+*   Information Theory
+*   Algorithms
+*   High-Dimensional Geometry
+
+His work often involves developing combinatorial methods inspired by insights from algorithms and statistical physics.",SUCCESS
+Will Powell,tell me about Will Powell and their research areas,"William Powell's research areas include Servers, High-Performance Computing (HPC), Systems Management, Computer Networking, Novel Computing Architectures, Post-Moore Computing, Experimental Testbeds, Computer Architecture, Cloud Computing, HPC Education, and Resource Scheduling.",SUCCESS
+William Gelder,tell me about William Gelder and their research areas,"William Gelder is a Research Associate I in the School of Interactive Computing at the Georgia Institute of Technology. His research areas include Human-Computer Interaction, Culturally Relevant CS Education, and Educational Technology.
+
+His expertise also encompasses:
+*   Computer Science Education
+*   Artificial Intelligence Education
+*   Culturally Responsive Pedagogy
+*   Participatory Design
+*   Design Thinking
+*   Ubiquitous Computing
+*   Maker Education
+*   Societal Impact of Technology
+
+A significant portion of his research investigates the development and assessment of AI curricula for K-12 students and the creation of sustainable, battery-free computing devices.",SUCCESS
+Xiuwei Zhang,tell me about Xiuwei Zhang and their research areas,"Dr. Xiuwei Zhang specializes in computational biology and bioinformatics, focusing on applying machine learning and optimization to develop novel methods for analyzing complex single-cell RNA-Sequencing and other single-cell level technologies. Her research aims to decipher cellular mechanisms driving differentiation, development, and disease progression.
+
+Her specific research areas include:
+*   Computational biology
+*   Bioinformatics
+*   Advanced methods for single-cell data analysis
+*   Transcriptional regulatory network inference
+*   Single-cell RNA sequencing analysis
+*   Evolutionary biology
+*   Application of machine learning in biological contexts
+*   Systems biology approaches
+*   Bioinformatics algorithms
+*   Immunology
+*   Protein structure and evolution",SUCCESS
+Yalong Yang,tell me about Yalong Yang and their research areas,"Dr. Yalong Yang specializes in Immersive Analytics, VR/AR/MR/XR, and Data Visualization. His research also encompasses Human-Data Interaction, Human-Computer Interaction, and Interaction Design. A significant part of his work focuses on geospatial visualization in immersive environments, collaborative visualization paradigms, and the scalability of network visualizations from a cognitive load perspective.",SUCCESS
+Yingyan (Celine) Lin,tell me about Yingyan (Celine) Lin and their research areas,"Yingyan (Celine) Lin is an Associate Professor in the School of Computer Science at Georgia Tech and Co-Director of the Center for Advancing Responsible Computing (CARE). Her primary research focuses on developing highly efficient machine learning solutions through cross-layer innovations, spanning advanced AI algorithms, specialized AI hardware accelerators, and novel AI acceleration chips, all aimed at fostering green AI and enabling ubiquitous AI-powered intelligence.
+
+Her research areas include:
+*   Efficient AI algorithms
+*   Deep learning accelerators
+*   Green AI
+*   Deep learning acceleration
+*   Hardware-aware neural architecture search
+*   Neural network compression (including model quantization and pruning)
+*   Graph Neural Network (GNN) acceleration
+*   Computer vision acceleration
+*   Edge AI hardware
+*   AI chip design automation
+*   Efficient adaptation of large language models on edge devices
+*   Neuro-symbolic AI
+*   Instantaneous and real-time Neural Radiance Field (NeRF) training and rendering for on-device Augmented and Virtual Reality (AR/VR) applications.",SUCCESS
+Yunan Luo,tell me about Yunan Luo and their research areas,"Yunan Luo is an Assistant Professor in the School of Computational Science and Engineering (CSE) at the Georgia Institute of Technology. His primary research focuses on developing advanced artificial intelligence (AI) and data science methods to uncover scientific insights in biology and medicine.
+
+Dr. Luo's research areas include:
+*   **Computational Biology**
+*   **Bioinformatics**
+*   **Machine Learning**, with a strong emphasis on Deep Learning, Geometric Deep Learning, and Generative AI.
+*   **Drug Discovery and Repositioning**
+*   **Protein Engineering**
+*   **Genomics**, including functional genomics and cancer genomics.
+*   **Systems Biology**
+*   **Network Biology**
+*   **Remote Sensing**
+*   **Computer Vision**, developing methods for metagenomic binning, enzyme function prediction, and optical satellite data fusion.",SUCCESS
+Zachary S. Bischof,tell me about Zachary S. Bischof and their research areas,"Zachary S. Bischof's primary research centers on computer networks and distributed systems, with a particular emphasis on Internet measurement, broadband networks, and peer-to-peer systems.
+
+His specialized research areas include:
+*   Networking
+*   Distributed Systems
+*   Internet Measurement
+*   Broadband Internet Access
+*   Peer-to-Peer Networks
+*   Sensor Networks
+*   Network Infrastructure, with a focus on the global submarine cable network
+*   Mobile Web, including the impact of projects like Google's Accelerated Mobile Project (AMP)
+*   Geographic Information Systems for router geolocation and mapping Internet connectivity",SUCCESS
+Zongchen Chen,tell me about Zongchen Chen and their research areas,"Zongchen Chen's research broadly encompasses randomized algorithms, discrete probability, and machine learning. His work extensively features the study of Markov Chain Monte Carlo (MCMC) methods, algorithmic probability, and their applications in statistical physics and computational complexity. He also explores areas such as discrete mathematics, graph theory, and optimization. Current research particularly focuses on MCMC methods, approximate counting and sampling, and the learning and testing of high-dimensional distributions.",SUCCESS
+Zsolt Kira,tell me about Zsolt Kira and their research areas,"Zsolt Kira's research areas encompass Machine Learning, Artificial Intelligence, and Robotics, with a focus on Perception, Computer Vision, and Deep Learning. His work emphasizes Reinforcement Learning and Continual Learning, exploring unsupervised, semi-supervised, and self-supervised approaches. He also investigates Out-of-Distribution (OoD) detection, model calibration, learning under imbalanced datasets, distributed perception through multi-modal fusion, and the development of Vision-Language Foundation Models for open-world 2D and 3D scene understanding. Dr. Kira's research increasingly emphasizes Embodied AI.",SUCCESS
+Zvi Galil,tell me about Zvi Galil and their research areas,"Zvi Galil's primary research focuses on the design and analysis of algorithms, computational complexity, and cryptography. He specializes in theoretical computer science disciplines such as Algorithms and Data Structures, Graph Theory, Combinatorial Optimization, Stringology (a term he is credited with coining), Parallel and Distributed Computing, Design of Experiments, and Discrete Mathematics. He is also recognized for his contributions to computer science education, particularly in online learning initiatives.",SUCCESS
+merrick furst,tell me about merrick furst and their research areas,"Dr. Merrick L. Furst's research areas encompass algorithms, complexity theory, and Artificial Intelligence (AI). His expertise broadly covers Theoretical Computer Science, Algorithms and Data Structures, and Computational Complexity. He is recognized for his work in Machine Learning Theory, Cryptography, and Graph Theory. Additionally, his research delves into Programming Languages and Compilers, Human-Computer Interaction, and Computer Science Education, with a recent focus on startup engineering and deliberate innovation.",SUCCESS
+seth hutchinson,tell me about seth hutchinson and their research areas,"Seth Hutchinson's research areas encompass a broad spectrum of robotics. His primary research endeavors are dedicated to advancing the capabilities and intelligence of robots, focusing on fundamental aspects such as planning, sensing, and control.
+
+Specifically, his research includes:
+*   **Robot Control**
+*   **Motion Planning**
+*   **Computer Vision**
+*   **Visual Servoing**: using visual feedback for robot control, including image-based and position-based approaches.
+*   **Multi-Robot Systems**
+*   **Autonomous Systems**
+*   **Trajectory Generation**
+*   **Machine Learning** in robotics
+*   **Biologically Inspired Robotics**, particularly in the study of locomotion.
+*   **Physical Human-Robot Interaction**
+*   **Planning under Uncertainty**
+*   **Pursuit and Evasion**
+*   **Localization and Mapping**",SUCCESS
+Ümit V. Çatalyürek,tell me about Ümit V. Çatalyürek and their research areas,"Dr. Ümit V. Çatalyürek is a Professor in the School of Computational Science and Engineering at Georgia Institute of Technology and an Amazon Scholar. His research primarily focuses on high-performance computing, combinatorial scientific computing, and biomedical informatics, with an emphasis on developing scalable algorithms and computational models for complex scientific and data-intensive applications.
+
+His specific research areas include:
+*   **Combinatorial Scientific Computing**
+*   **High Performance Computing**
+*   **Parallel Computing**
+*   **Biomedical Informatics**, which encompasses Graph Algorithms, Machine Learning, Image Analysis, Computational Science, Data Mining, and Scientific Visualization.
+
+He is particularly interested in graph and hypergraph partitioning, workload and data decomposition for irregular domains, scheduling, and the development of parallel algorithms for scientific and biomedical applications. His work often involves multidisciplinary studies connecting algorithm design, computation theory, centrality analysis, and combinatorics.",SUCCESS

@@ -309,7 +309,7 @@ REMEMBER: Every factual statement must be wrapped in <CIT> tags directly in your
 
     # Initialize model
     model = GenerativeModel(
-        model_name="gemini-3-pro-preview",
+        model_name="gemini-2.5-pro",
         tools=[rag_retrieval_tool],
         system_instruction=system_prompt
     )

@@ -1,0 +1,199 @@
+================================================================================
+ALL PROFESSORS TEST RESULTS - NEW CORPUS
+================================================================================
+
+Corpus: projects/371824203937/locations/us-east4/ragCorpora/3458764513820540928
+
+Total professors tested: 177
+Successful retrievals: 173 (97.7%)
+Failed retrievals: 0 (0.0%)
+Errors: 4 (2.3%)
+
+================================================================================
+SUCCESSFUL RETRIEVALS (173 total)
+================================================================================
+  - Abrahim Ladha
+  - Ada Gavrilovska
+  - Agata Rozga
+  - Ahmed Saeed
+  - Aibek Musaev
+  - Alan Ritter
+  - Alberto Dainotti
+  - Alex Duncan
+  - Alex Endert
+  - Alexander Adams
+  - Alexandra Boldyreva
+  - Alexandros Daglis
+  - Alexey Tumanov
+  - Amanda Meng
+  - Amy Bruckman
+  - Andrea G. Parker
+  - Animesh Chhotaray
+  - Animesh Garg
+  - Annie I. Antón
+  - Anqi Wu
+  - Ashok K. Goel, Ashok Goel
+  - Ashutosh Dhekne
+  - B. Aditya Prakash
+  - Betsy DiSalvo
+  - Bo Dai
+  - Bo Zhu
+  - Bobbie Lynn Eicher
+  - Brendan D. Saltaformaggio
+  - Brian Hrolenok
+  - Brian Magerko
+  - Bruce N. Walker
+  - Calton Pu
+  - Carl DiSalvo (he / him)
+  - Carrie Bruce
+  - Cecilia Testart
+  - Chao Zhang
+  - Christopher J. MacLellan
+  - Cindy Lin Kaiying
+  - Cindy Xiong Bearfield
+  - Clio Andris
+  - Constantine Dovrolis
+  - Dana Randall
+  - Danfei Xu
+  - Dante Ciolfi
+  - David A. Joyner
+  - David Sherrill
+  - Divya Mahajan
+  - Duen Horng Chau
+  - Edmond Chow
+  - Elizabeth M. Cherry
+  - Elizabeth Qian
+  - Ellen Zegura
+  - Felix J. Herrmann
+  - Francisco Romero
+  - Frank Dellaert
+  - Glen Chou
+  - Greg Eisenhauer
+  - Greg Turk
+  - Haesun Park
+  - Harish Ravichandar
+  - Helen Xu
+  - Humphrey Shi
+  - Hyesoon Kim
+  - HyunJoo Oh
+  - Irfan Essa
+  - J. Sukarno Mertoguno
+  - Jacob Abernethy
+  - Jacob Laurel
+  - James Foley
+  - James Hays
+  - Jan van den Brand
+  - Jennifer G. Kim
+  - Jessica Roberts
+  - John Stasko
+  - Jon Duke
+  - Jon R. Lindsay
+  - Joseph Jaeger
+  - Josiah Hester
+  - Joy Arulraj
+  - Judith Odili Uchidiuno
+  - Judy Hoffman
+  - Jun Xu
+  - KARTIK GOYAL
+  - Kai Wang
+  - Keith Adkins
+  - Kexin Rong
+  - Kim  Luong MacLeod
+  - Kristine Nagel
+  - Larry Heck
+  - Lien Diaz
+  - Ling Liu
+  - M. Mahdi Roozbahani
+  - Mahender Mandala
+  - Mark Borodovsky
+  - Mark Riedl
+  - Matthew Gombolay
+  - Melody Moore Jackson
+  - Michael A. Specter
+  - Michael Donald Bailey
+  - Milos Prvulovic
+  - Moinuddin Qureshi
+  - Mostafa Ammar
+  - Munmun De Choudhury
+  - Mustaque Ahamad
+  - Nabil Imam
+  - Naveena Karusala
+  - Neha Kumar
+  - Nicholas Lytle
+  - Nimisha Roy
+  - Oliver Brdiczka
+  - Paul Pearce
+  - Pedro Guillermo Feijóo-García
+  - Peng Chen
+  - Peter A. Freeman
+  - Peter Swire
+  - Qi Tang
+  - Qirun Zhang
+  - Raphael Pestourie
+  - Rebecca E. Grinter
+  - Richard DeMillo
+  - Richard Fujimoto
+  - Richard Henneman
+  - Richard Vuduc
+  - Rodrigo Borela
+  - Rosa I. Arriaga
+  - Russell Clark
+  - Ryan Shandler
+  - Sahil Singla
+  - Saman Zonouz
+  - Santosh Pande
+  - Santosh S. Vempala
+  - Sashank Varma
+  - Sehoon Ha
+  - Shamkant B Navathe
+  - Shaowen Bardzell
+  - Simon Pak Ho Chung
+  - Sonia Chernova
+  - Spencer H. Bryngelson
+  - Srijan Kumar
+  - Srinivas Aluru
+  - Stephen Mussmann
+  - Suguman Bansal
+  - Surya R. Kalidindi
+  - Taesoo Kim
+  - Tamara Pearson
+  - Teodora Baluta
+  - Thad Starner
+  - Thomas Ploetz
+  - Tom Conte
+  - Umakishore Ramachandran
+  - Vassilis Zikas
+  - Victor Fung
+  - Vijay Ganesh
+  - Vijay Madisetti
+  - Vivek Sarkar
+  - Vladimir Kolesnikov
+  - W. Keith Edwards
+  - Wei "Coco" Xu
+  - Wenke Lee
+  - Will Perkins
+  - Will Powell
+  - William Gelder
+  - Xiuwei Zhang
+  - Yalong Yang
+  - Yingyan (Celine) Lin
+  - Yunan Luo
+  - Zachary S. Bischof
+  - Zongchen Chen
+  - Zsolt Kira
+  - Zvi Galil
+  - merrick furst
+  - seth hutchinson
+  - Ümit V. Çatalyürek
+
+================================================================================
+PROFESSORS WITH ERRORS (4 total)
+================================================================================
+  - Ketan Bhardwaj
+    Error: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+  - Kuldeep S. Meel
+    Error: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+  - KwangHo Park
+    Error: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
+  - Lynn Dombrowski
+    Error: 429 Resource exhausted. Please try again later. Please refer to https://cloud.google.com/vertex-ai/generative-ai/docs/error-code-429 for more details.
