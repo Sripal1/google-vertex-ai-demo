@@ -9,7 +9,7 @@ paths = ["https://drive.google.com/drive/folders/1kk6JuGoYmMV9U90j48uZLkiC1HzQHL
 # Initialize Vertex AI API once per session
 vertexai.init(project=PROJECT_ID, location="us-east4")
 
-CREATE_NEW_CORPUS = True
+CREATE_NEW_CORPUS = False
 
 if CREATE_NEW_CORPUS:
     print("Creating new RAG Corpus...")
@@ -45,10 +45,8 @@ if CREATE_NEW_CORPUS:
 else:
 
     print("Using existing RAG Corpus...")
-    # TODO: Replace with your actual corpus name from the first run
-    # You can find it by running: rag.list_corpora()
-    # print(rag.list_corpora())
-    corpus_name = "projects/astute-sign-476118-i9/locations/us-east4/ragCorpora/1866742045545070592"
+    # New corpus with fixed data (all 177 professors verified)
+    corpus_name = "projects/371824203937/locations/us-east4/ragCorpora/3458764513820540928"
     rag_corpus = rag.get_corpus(corpus_name)
 
 

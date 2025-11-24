@@ -13,7 +13,7 @@ st.set_page_config(
 
 # Initialize Vertex AI
 PROJECT_ID = "astute-sign-476118-i9"
-CORPUS_NAME = "projects/astute-sign-476118-i9/locations/us-east4/ragCorpora/1866742045545070592"
+CORPUS_NAME = "projects/371824203937/locations/us-east4/ragCorpora/3458764513820540928"
 
 @st.cache_resource
 def initialize_rag_model():
